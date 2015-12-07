@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: 0f2114f5f331c0446a9ae51f51606443
+timeCreated: 1448307956
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: backdrops
+    100002: Character1:Mike_Ctrl_ChestEndEffector
+    100004: Character1:Mike_Ctrl_ChestOriginEffector
+    100006: Character1:Mike_Ctrl_Head
+    100008: Character1:Mike_Ctrl_HeadEffector
+    100010: Character1:Mike_Ctrl_Hips
+    100012: Character1:Mike_Ctrl_HipsEffector
+    100014: Character1:Mike_Ctrl_LeftAnkleEffector
+    100016: Character1:Mike_Ctrl_LeftArm
+    100018: Character1:Mike_Ctrl_LeftElbowEffector
+    100020: Character1:Mike_Ctrl_LeftFoot
+    100022: Character1:Mike_Ctrl_LeftFootEffector
+    100024: Character1:Mike_Ctrl_LeftForeArm
+    100026: Character1:Mike_Ctrl_LeftHand
+    100028: Character1:Mike_Ctrl_LeftHandIndex1
+    100030: Character1:Mike_Ctrl_LeftHandIndex2
+    100032: Character1:Mike_Ctrl_LeftHandIndex3
+    100034: Character1:Mike_Ctrl_LeftHandIndex4
+    100036: Character1:Mike_Ctrl_LeftHandIndexEffector
+    100038: Character1:Mike_Ctrl_LeftHandMiddle1
+    100040: Character1:Mike_Ctrl_LeftHandMiddle2
+    100042: Character1:Mike_Ctrl_LeftHandMiddle3
+    100044: Character1:Mike_Ctrl_LeftHandMiddle4
+    100046: Character1:Mike_Ctrl_LeftHandMiddleEffector
+    100048: Character1:Mike_Ctrl_LeftHandPinky1
+    100050: Character1:Mike_Ctrl_LeftHandPinky2
+    100052: Character1:Mike_Ctrl_LeftHandPinky3
+    100054: Character1:Mike_Ctrl_LeftHandPinky4
+    100056: Character1:Mike_Ctrl_LeftHandPinkyEffector
+    100058: Character1:Mike_Ctrl_LeftHandRing1
+    100060: Character1:Mike_Ctrl_LeftHandRing2
+    100062: Character1:Mike_Ctrl_LeftHandRing3
+    100064: Character1:Mike_Ctrl_LeftHandRing4
+    100066: Character1:Mike_Ctrl_LeftHandRingEffector
+    100068: Character1:Mike_Ctrl_LeftHandThumb1
+    100070: Character1:Mike_Ctrl_LeftHandThumb2
+    100072: Character1:Mike_Ctrl_LeftHandThumb3
+    100074: Character1:Mike_Ctrl_LeftHandThumb4
+    100076: Character1:Mike_Ctrl_LeftHandThumbEffector
+    100078: Character1:Mike_Ctrl_LeftHipEffector
+    100080: Character1:Mike_Ctrl_LeftKneeEffector
+    100082: Character1:Mike_Ctrl_LeftLeg
+    100084: Character1:Mike_Ctrl_LeftShoulder
+    100086: Character1:Mike_Ctrl_LeftShoulderEffector
+    100088: Character1:Mike_Ctrl_LeftToeBase
+    100090: Character1:Mike_Ctrl_LeftUpLeg
+    100092: Character1:Mike_Ctrl_LeftWristEffector
+    100094: Character1:Mike_Ctrl_Neck
+    100096: Character1:Mike_Ctrl_Reference
+    100098: Character1:Mike_Ctrl_RightAnkleEffector
+    100100: Character1:Mike_Ctrl_RightArm
+    100102: Character1:Mike_Ctrl_RightElbowEffector
+    100104: Character1:Mike_Ctrl_RightFoot
+    100106: Character1:Mike_Ctrl_RightFootEffector
+    100108: Character1:Mike_Ctrl_RightForeArm
+    100110: Character1:Mike_Ctrl_RightHand
+    100112: Character1:Mike_Ctrl_RightHandIndex1
+    100114: Character1:Mike_Ctrl_RightHandIndex2
+    100116: Character1:Mike_Ctrl_RightHandIndex3
+    100118: Character1:Mike_Ctrl_RightHandIndex4
+    100120: Character1:Mike_Ctrl_RightHandIndexEffector
+    100122: Character1:Mike_Ctrl_RightHandMiddle1
+    100124: Character1:Mike_Ctrl_RightHandMiddle2
+    100126: Character1:Mike_Ctrl_RightHandMiddle3
+    100128: Character1:Mike_Ctrl_RightHandMiddle4
+    100130: Character1:Mike_Ctrl_RightHandMiddleEffector
+    100132: Character1:Mike_Ctrl_RightHandPinky1
+    100134: Character1:Mike_Ctrl_RightHandPinky2
+    100136: Character1:Mike_Ctrl_RightHandPinky3
+    100138: Character1:Mike_Ctrl_RightHandPinky4
+    100140: Character1:Mike_Ctrl_RightHandPinkyEffector
+    100142: Character1:Mike_Ctrl_RightHandRing1
+    100144: Character1:Mike_Ctrl_RightHandRing2
+    100146: Character1:Mike_Ctrl_RightHandRing3
+    100148: Character1:Mike_Ctrl_RightHandRing4
+    100150: Character1:Mike_Ctrl_RightHandRingEffector
+    100152: Character1:Mike_Ctrl_RightHandThumb1
+    100154: Character1:Mike_Ctrl_RightHandThumb2
+    100156: Character1:Mike_Ctrl_RightHandThumb3
+    100158: Character1:Mike_Ctrl_RightHandThumb4
+    100160: Character1:Mike_Ctrl_RightHandThumbEffector
+    100162: Character1:Mike_Ctrl_RightHipEffector
+    100164: Character1:Mike_Ctrl_RightKneeEffector
+    100166: Character1:Mike_Ctrl_RightLeg
+    100168: Character1:Mike_Ctrl_RightShoulder
+    100170: Character1:Mike_Ctrl_RightShoulderEffector
+    100172: Character1:Mike_Ctrl_RightToeBase
+    100174: Character1:Mike_Ctrl_RightUpLeg
+    100176: Character1:Mike_Ctrl_RightWristEffector
+    100178: Character1:Mike_Ctrl_Spine
+    100180: Character1:Mike_Ctrl_Spine1
+    100182: Character1:Mike_Ctrl_Spine2
+    100184: Character1:Mike_Head
+    100186: Character1:Mike_Hips
+    100188: Character1:Mike_LeftArm
+    100190: Character1:Mike_LeftFoot
+    100192: Character1:Mike_LeftForeArm
+    100194: Character1:Mike_LeftHand
+    100196: Character1:Mike_LeftHandIndex1
+    100198: Character1:Mike_LeftHandIndex2
+    100200: Character1:Mike_LeftHandIndex3
+    100202: Character1:Mike_LeftHandIndex4
+    100204: Character1:Mike_LeftHandMiddle1
+    100206: Character1:Mike_LeftHandMiddle2
+    100208: Character1:Mike_LeftHandMiddle3
+    100210: Character1:Mike_LeftHandMiddle4
+    100212: Character1:Mike_LeftHandPinky1
+    100214: Character1:Mike_LeftHandPinky2
+    100216: Character1:Mike_LeftHandPinky3
+    100218: Character1:Mike_LeftHandPinky4
+    100220: Character1:Mike_LeftHandRing1
+    100222: Character1:Mike_LeftHandRing2
+    100224: Character1:Mike_LeftHandRing3
+    100226: Character1:Mike_LeftHandRing4
+    100228: Character1:Mike_LeftHandThumb1
+    100230: Character1:Mike_LeftHandThumb2
+    100232: Character1:Mike_LeftHandThumb3
+    100234: Character1:Mike_LeftHandThumb4
+    100236: Character1:Mike_LeftLeg
+    100238: Character1:Mike_LeftShoulder
+    100240: Character1:Mike_LeftToeBase
+    100242: Character1:Mike_LeftUpLeg
+    100244: Character1:Mike_Neck
+    100246: Character1:Mike_Reference
+    100248: Character1:Mike_RightArm
+    100250: Character1:Mike_RightFoot
+    100252: Character1:Mike_RightForeArm
+    100254: Character1:Mike_RightHand
+    100256: Character1:Mike_RightHandIndex1
+    100258: Character1:Mike_RightHandIndex2
+    100260: Character1:Mike_RightHandIndex3
+    100262: Character1:Mike_RightHandIndex4
+    100264: Character1:Mike_RightHandMiddle1
+    100266: Character1:Mike_RightHandMiddle2
+    100268: Character1:Mike_RightHandMiddle3
+    100270: Character1:Mike_RightHandMiddle4
+    100272: Character1:Mike_RightHandPinky1
+    100274: Character1:Mike_RightHandPinky2
+    100276: Character1:Mike_RightHandPinky3
+    100278: Character1:Mike_RightHandPinky4
+    100280: Character1:Mike_RightHandRing1
+    100282: Character1:Mike_RightHandRing2
+    100284: Character1:Mike_RightHandRing3
+    100286: Character1:Mike_RightHandRing4
+    100288: Character1:Mike_RightHandThumb1
+    100290: Character1:Mike_RightHandThumb2
+    100292: Character1:Mike_RightHandThumb3
+    100294: Character1:Mike_RightHandThumb4
+    100296: Character1:Mike_RightLeg
+    100298: Character1:Mike_RightShoulder
+    100300: Character1:Mike_RightToeBase
+    100302: Character1:Mike_RightUpLeg
+    100304: Character1:Mike_Spine
+    100306: Character1:Mike_Spine1
+    100308: Character1:Mike_Spine2
+    100310: Character1:MikeMesh
+    100312: Character1RNgroup
+    100314: Character1RNlocator
+    100316: commercialface2:brace1
+    100318: commercialface2:brace2
+    100320: commercialface2:pCube2
+    100322: commercialface2:pCube2 1
+    100324: commercialface2:pCube3
+    100326: commercialface2:pCube3 1
+    100328: commercialface2:pCube4
+    100330: commercialface2:pCube4 1
+    100332: commercialface2:SuburbFacade1
+    100334: directionalLight1
+    100336: directionalLight2
+    100338: group
+    100340: group1
+    100342: //RootNode
+    100344: pasted__group1
+    100346: pawnshop:brace1
+    100348: pawnshop:brace2
+    100350: pawnshop:pCube2
+    100352: pawnshop:pCube2 1
+    100354: pawnshop:pCube3
+    100356: pawnshop:pCube3 1
+    100358: pawnshop:pCube4
+    100360: pawnshop:pCube4 1
+    100362: pawnshop:SuburbFacade1
+    100364: pawnshopRNannotation
+    100366: pawnshopRNgroup
+    100368: pawnshopRNlocator
+    100370: pointLight1
+    100372: polySurface1
+    100374: polySurface1 1
+    100376: polySurface2
+    100378: polySurface3
+    100380: polySurface4
+    100382: polySurface4 1
+    100384: polySurface5
+    100386: polySurface6
+    100388: polySurface7
+    100390: postcard_stand_flat:Arm
+    100392: postcard_stand_flat:Arm1
+    100394: postcard_stand_flat:Arm10
+    100396: postcard_stand_flat:Arm11
+    100398: postcard_stand_flat:Arm12
+    100400: postcard_stand_flat:Arm13
+    100402: postcard_stand_flat:Arm14
+    100404: postcard_stand_flat:Arm15
+    100406: postcard_stand_flat:Arm2
+    100408: postcard_stand_flat:Arm3
+    100410: postcard_stand_flat:Arm4
+    100412: postcard_stand_flat:Arm5
+    100414: postcard_stand_flat:Arm6
+    100416: postcard_stand_flat:Arm7
+    100418: postcard_stand_flat:Arm8
+    100420: postcard_stand_flat:Arm9
+    100422: postcard_stand_flat:newspapers
+    100424: postcard_stand_flat:newsstand
+    100426: postcard_stand_flat:pCube1
+    100428: postcard_stand_flat:pCylinder1
+    100430: postcard_stand_flat:Postcard
+    100432: postcard_stand_flat:Postcard 1
+    100434: postcard_stand_flat:Postcard 10
+    100436: postcard_stand_flat:Postcard 11
+    100438: postcard_stand_flat:Postcard 12
+    100440: postcard_stand_flat:Postcard 13
+    100442: postcard_stand_flat:Postcard 14
+    100444: postcard_stand_flat:Postcard 15
+    100446: postcard_stand_flat:Postcard 2
+    100448: postcard_stand_flat:Postcard 3
+    100450: postcard_stand_flat:Postcard 4
+    100452: postcard_stand_flat:Postcard 5
+    100454: postcard_stand_flat:Postcard 6
+    100456: postcard_stand_flat:Postcard 7
+    100458: postcard_stand_flat:Postcard 8
+    100460: postcard_stand_flat:Postcard 9
+    100462: postcard_stand_flat:pPlane1
+    100464: postcard_stand_flat:pPlane10
+    100466: postcard_stand_flat:pPlane12
+    100468: postcard_stand_flat:pPlane2
+    100470: postcard_stand_flat:pPlane3
+    100472: postcard_stand_flat:pPlane4
+    100474: postcard_stand_flat:pPlane5
+    100476: postcard_stand_flat:pPlane6
+    100478: postcard_stand_flat:pPlane7
+    100480: postcard_stand_flat:pPlane8
+    100482: postcard_stand_flat:pPlane9
+    100484: postcard_stand_flatRNannotation
+    100486: postcard_stand_flatRNgroup
+    100488: postcard_stand_flatRNlocator
+    100490: postcard_standRNannotation
+    100492: postcard_standRNgroup
+    100494: postcard_standRNlocator
+    100496: pPlane10
+    100498: pPlane12
+    100500: pPlane13
+    100502: pPlane14
+    100504: pPlane16
+    100506: pPlane17
+    100508: pPlane18
+    100510: pPlane19
+    100512: pPlane2
+    100514: pPlane20
+    100516: pPlane21
+    100518: pPlane22
+    100520: pPlane23
+    100522: pPlane24
+    100524: pPlane25
+    100526: pPlane26
+    100528: pPlane27
+    100530: pPlane28
+    100532: pPlane29
+    100534: pPlane3
+    100536: pPlane30
+    100538: pPlane4
+    100540: pPlane5
+    100542: pPlane9
+    100544: pSphere1
+    100546: transform1
+    100548: transform2
+    100550: transform3
+    100552: transform4
+    100554: transform5
+    100556: transform6
+    100558: transform7
+    400000: backdrops
+    400002: Character1:Mike_Ctrl_ChestEndEffector
+    400004: Character1:Mike_Ctrl_ChestOriginEffector
+    400006: Character1:Mike_Ctrl_Head
+    400008: Character1:Mike_Ctrl_HeadEffector
+    400010: Character1:Mike_Ctrl_Hips
+    400012: Character1:Mike_Ctrl_HipsEffector
+    400014: Character1:Mike_Ctrl_LeftAnkleEffector
+    400016: Character1:Mike_Ctrl_LeftArm
+    400018: Character1:Mike_Ctrl_LeftElbowEffector
+    400020: Character1:Mike_Ctrl_LeftFoot
+    400022: Character1:Mike_Ctrl_LeftFootEffector
+    400024: Character1:Mike_Ctrl_LeftForeArm
+    400026: Character1:Mike_Ctrl_LeftHand
+    400028: Character1:Mike_Ctrl_LeftHandIndex1
+    400030: Character1:Mike_Ctrl_LeftHandIndex2
+    400032: Character1:Mike_Ctrl_LeftHandIndex3
+    400034: Character1:Mike_Ctrl_LeftHandIndex4
+    400036: Character1:Mike_Ctrl_LeftHandIndexEffector
+    400038: Character1:Mike_Ctrl_LeftHandMiddle1
+    400040: Character1:Mike_Ctrl_LeftHandMiddle2
+    400042: Character1:Mike_Ctrl_LeftHandMiddle3
+    400044: Character1:Mike_Ctrl_LeftHandMiddle4
+    400046: Character1:Mike_Ctrl_LeftHandMiddleEffector
+    400048: Character1:Mike_Ctrl_LeftHandPinky1
+    400050: Character1:Mike_Ctrl_LeftHandPinky2
+    400052: Character1:Mike_Ctrl_LeftHandPinky3
+    400054: Character1:Mike_Ctrl_LeftHandPinky4
+    400056: Character1:Mike_Ctrl_LeftHandPinkyEffector
+    400058: Character1:Mike_Ctrl_LeftHandRing1
+    400060: Character1:Mike_Ctrl_LeftHandRing2
+    400062: Character1:Mike_Ctrl_LeftHandRing3
+    400064: Character1:Mike_Ctrl_LeftHandRing4
+    400066: Character1:Mike_Ctrl_LeftHandRingEffector
+    400068: Character1:Mike_Ctrl_LeftHandThumb1
+    400070: Character1:Mike_Ctrl_LeftHandThumb2
+    400072: Character1:Mike_Ctrl_LeftHandThumb3
+    400074: Character1:Mike_Ctrl_LeftHandThumb4
+    400076: Character1:Mike_Ctrl_LeftHandThumbEffector
+    400078: Character1:Mike_Ctrl_LeftHipEffector
+    400080: Character1:Mike_Ctrl_LeftKneeEffector
+    400082: Character1:Mike_Ctrl_LeftLeg
+    400084: Character1:Mike_Ctrl_LeftShoulder
+    400086: Character1:Mike_Ctrl_LeftShoulderEffector
+    400088: Character1:Mike_Ctrl_LeftToeBase
+    400090: Character1:Mike_Ctrl_LeftUpLeg
+    400092: Character1:Mike_Ctrl_LeftWristEffector
+    400094: Character1:Mike_Ctrl_Neck
+    400096: Character1:Mike_Ctrl_Reference
+    400098: Character1:Mike_Ctrl_RightAnkleEffector
+    400100: Character1:Mike_Ctrl_RightArm
+    400102: Character1:Mike_Ctrl_RightElbowEffector
+    400104: Character1:Mike_Ctrl_RightFoot
+    400106: Character1:Mike_Ctrl_RightFootEffector
+    400108: Character1:Mike_Ctrl_RightForeArm
+    400110: Character1:Mike_Ctrl_RightHand
+    400112: Character1:Mike_Ctrl_RightHandIndex1
+    400114: Character1:Mike_Ctrl_RightHandIndex2
+    400116: Character1:Mike_Ctrl_RightHandIndex3
+    400118: Character1:Mike_Ctrl_RightHandIndex4
+    400120: Character1:Mike_Ctrl_RightHandIndexEffector
+    400122: Character1:Mike_Ctrl_RightHandMiddle1
+    400124: Character1:Mike_Ctrl_RightHandMiddle2
+    400126: Character1:Mike_Ctrl_RightHandMiddle3
+    400128: Character1:Mike_Ctrl_RightHandMiddle4
+    400130: Character1:Mike_Ctrl_RightHandMiddleEffector
+    400132: Character1:Mike_Ctrl_RightHandPinky1
+    400134: Character1:Mike_Ctrl_RightHandPinky2
+    400136: Character1:Mike_Ctrl_RightHandPinky3
+    400138: Character1:Mike_Ctrl_RightHandPinky4
+    400140: Character1:Mike_Ctrl_RightHandPinkyEffector
+    400142: Character1:Mike_Ctrl_RightHandRing1
+    400144: Character1:Mike_Ctrl_RightHandRing2
+    400146: Character1:Mike_Ctrl_RightHandRing3
+    400148: Character1:Mike_Ctrl_RightHandRing4
+    400150: Character1:Mike_Ctrl_RightHandRingEffector
+    400152: Character1:Mike_Ctrl_RightHandThumb1
+    400154: Character1:Mike_Ctrl_RightHandThumb2
+    400156: Character1:Mike_Ctrl_RightHandThumb3
+    400158: Character1:Mike_Ctrl_RightHandThumb4
+    400160: Character1:Mike_Ctrl_RightHandThumbEffector
+    400162: Character1:Mike_Ctrl_RightHipEffector
+    400164: Character1:Mike_Ctrl_RightKneeEffector
+    400166: Character1:Mike_Ctrl_RightLeg
+    400168: Character1:Mike_Ctrl_RightShoulder
+    400170: Character1:Mike_Ctrl_RightShoulderEffector
+    400172: Character1:Mike_Ctrl_RightToeBase
+    400174: Character1:Mike_Ctrl_RightUpLeg
+    400176: Character1:Mike_Ctrl_RightWristEffector
+    400178: Character1:Mike_Ctrl_Spine
+    400180: Character1:Mike_Ctrl_Spine1
+    400182: Character1:Mike_Ctrl_Spine2
+    400184: Character1:Mike_Head
+    400186: Character1:Mike_Hips
+    400188: Character1:Mike_LeftArm
+    400190: Character1:Mike_LeftFoot
+    400192: Character1:Mike_LeftForeArm
+    400194: Character1:Mike_LeftHand
+    400196: Character1:Mike_LeftHandIndex1
+    400198: Character1:Mike_LeftHandIndex2
+    400200: Character1:Mike_LeftHandIndex3
+    400202: Character1:Mike_LeftHandIndex4
+    400204: Character1:Mike_LeftHandMiddle1
+    400206: Character1:Mike_LeftHandMiddle2
+    400208: Character1:Mike_LeftHandMiddle3
+    400210: Character1:Mike_LeftHandMiddle4
+    400212: Character1:Mike_LeftHandPinky1
+    400214: Character1:Mike_LeftHandPinky2
+    400216: Character1:Mike_LeftHandPinky3
+    400218: Character1:Mike_LeftHandPinky4
+    400220: Character1:Mike_LeftHandRing1
+    400222: Character1:Mike_LeftHandRing2
+    400224: Character1:Mike_LeftHandRing3
+    400226: Character1:Mike_LeftHandRing4
+    400228: Character1:Mike_LeftHandThumb1
+    400230: Character1:Mike_LeftHandThumb2
+    400232: Character1:Mike_LeftHandThumb3
+    400234: Character1:Mike_LeftHandThumb4
+    400236: Character1:Mike_LeftLeg
+    400238: Character1:Mike_LeftShoulder
+    400240: Character1:Mike_LeftToeBase
+    400242: Character1:Mike_LeftUpLeg
+    400244: Character1:Mike_Neck
+    400246: Character1:Mike_Reference
+    400248: Character1:Mike_RightArm
+    400250: Character1:Mike_RightFoot
+    400252: Character1:Mike_RightForeArm
+    400254: Character1:Mike_RightHand
+    400256: Character1:Mike_RightHandIndex1
+    400258: Character1:Mike_RightHandIndex2
+    400260: Character1:Mike_RightHandIndex3
+    400262: Character1:Mike_RightHandIndex4
+    400264: Character1:Mike_RightHandMiddle1
+    400266: Character1:Mike_RightHandMiddle2
+    400268: Character1:Mike_RightHandMiddle3
+    400270: Character1:Mike_RightHandMiddle4
+    400272: Character1:Mike_RightHandPinky1
+    400274: Character1:Mike_RightHandPinky2
+    400276: Character1:Mike_RightHandPinky3
+    400278: Character1:Mike_RightHandPinky4
+    400280: Character1:Mike_RightHandRing1
+    400282: Character1:Mike_RightHandRing2
+    400284: Character1:Mike_RightHandRing3
+    400286: Character1:Mike_RightHandRing4
+    400288: Character1:Mike_RightHandThumb1
+    400290: Character1:Mike_RightHandThumb2
+    400292: Character1:Mike_RightHandThumb3
+    400294: Character1:Mike_RightHandThumb4
+    400296: Character1:Mike_RightLeg
+    400298: Character1:Mike_RightShoulder
+    400300: Character1:Mike_RightToeBase
+    400302: Character1:Mike_RightUpLeg
+    400304: Character1:Mike_Spine
+    400306: Character1:Mike_Spine1
+    400308: Character1:Mike_Spine2
+    400310: Character1:MikeMesh
+    400312: Character1RNgroup
+    400314: Character1RNlocator
+    400316: commercialface2:brace1
+    400318: commercialface2:brace2
+    400320: commercialface2:pCube2
+    400322: commercialface2:pCube2 1
+    400324: commercialface2:pCube3
+    400326: commercialface2:pCube3 1
+    400328: commercialface2:pCube4
+    400330: commercialface2:pCube4 1
+    400332: commercialface2:SuburbFacade1
+    400334: directionalLight1
+    400336: directionalLight2
+    400338: group
+    400340: group1
+    400342: //RootNode
+    400344: pasted__group1
+    400346: pawnshop:brace1
+    400348: pawnshop:brace2
+    400350: pawnshop:pCube2
+    400352: pawnshop:pCube2 1
+    400354: pawnshop:pCube3
+    400356: pawnshop:pCube3 1
+    400358: pawnshop:pCube4
+    400360: pawnshop:pCube4 1
+    400362: pawnshop:SuburbFacade1
+    400364: pawnshopRNannotation
+    400366: pawnshopRNgroup
+    400368: pawnshopRNlocator
+    400370: pointLight1
+    400372: polySurface1
+    400374: polySurface1 1
+    400376: polySurface2
+    400378: polySurface3
+    400380: polySurface4
+    400382: polySurface4 1
+    400384: polySurface5
+    400386: polySurface6
+    400388: polySurface7
+    400390: postcard_stand_flat:Arm
+    400392: postcard_stand_flat:Arm1
+    400394: postcard_stand_flat:Arm10
+    400396: postcard_stand_flat:Arm11
+    400398: postcard_stand_flat:Arm12
+    400400: postcard_stand_flat:Arm13
+    400402: postcard_stand_flat:Arm14
+    400404: postcard_stand_flat:Arm15
+    400406: postcard_stand_flat:Arm2
+    400408: postcard_stand_flat:Arm3
+    400410: postcard_stand_flat:Arm4
+    400412: postcard_stand_flat:Arm5
+    400414: postcard_stand_flat:Arm6
+    400416: postcard_stand_flat:Arm7
+    400418: postcard_stand_flat:Arm8
+    400420: postcard_stand_flat:Arm9
+    400422: postcard_stand_flat:newspapers
+    400424: postcard_stand_flat:newsstand
+    400426: postcard_stand_flat:pCube1
+    400428: postcard_stand_flat:pCylinder1
+    400430: postcard_stand_flat:Postcard
+    400432: postcard_stand_flat:Postcard 1
+    400434: postcard_stand_flat:Postcard 10
+    400436: postcard_stand_flat:Postcard 11
+    400438: postcard_stand_flat:Postcard 12
+    400440: postcard_stand_flat:Postcard 13
+    400442: postcard_stand_flat:Postcard 14
+    400444: postcard_stand_flat:Postcard 15
+    400446: postcard_stand_flat:Postcard 2
+    400448: postcard_stand_flat:Postcard 3
+    400450: postcard_stand_flat:Postcard 4
+    400452: postcard_stand_flat:Postcard 5
+    400454: postcard_stand_flat:Postcard 6
+    400456: postcard_stand_flat:Postcard 7
+    400458: postcard_stand_flat:Postcard 8
+    400460: postcard_stand_flat:Postcard 9
+    400462: postcard_stand_flat:pPlane1
+    400464: postcard_stand_flat:pPlane10
+    400466: postcard_stand_flat:pPlane12
+    400468: postcard_stand_flat:pPlane2
+    400470: postcard_stand_flat:pPlane3
+    400472: postcard_stand_flat:pPlane4
+    400474: postcard_stand_flat:pPlane5
+    400476: postcard_stand_flat:pPlane6
+    400478: postcard_stand_flat:pPlane7
+    400480: postcard_stand_flat:pPlane8
+    400482: postcard_stand_flat:pPlane9
+    400484: postcard_stand_flatRNannotation
+    400486: postcard_stand_flatRNgroup
+    400488: postcard_stand_flatRNlocator
+    400490: postcard_standRNannotation
+    400492: postcard_standRNgroup
+    400494: postcard_standRNlocator
+    400496: pPlane10
+    400498: pPlane12
+    400500: pPlane13
+    400502: pPlane14
+    400504: pPlane16
+    400506: pPlane17
+    400508: pPlane18
+    400510: pPlane19
+    400512: pPlane2
+    400514: pPlane20
+    400516: pPlane21
+    400518: pPlane22
+    400520: pPlane23
+    400522: pPlane24
+    400524: pPlane25
+    400526: pPlane26
+    400528: pPlane27
+    400530: pPlane28
+    400532: pPlane29
+    400534: pPlane3
+    400536: pPlane30
+    400538: pPlane4
+    400540: pPlane5
+    400542: pPlane9
+    400544: pSphere1
+    400546: transform1
+    400548: transform2
+    400550: transform3
+    400552: transform4
+    400554: transform5
+    400556: transform6
+    400558: transform7
+    2300000: commercialface2:pCube2
+    2300002: commercialface2:pCube2 1
+    2300004: commercialface2:pCube3
+    2300006: commercialface2:pCube3 1
+    2300008: commercialface2:pCube4
+    2300010: commercialface2:pCube4 1
+    2300012: commercialface2:SuburbFacade1
+    2300014: pawnshop:pCube2
+    2300016: pawnshop:pCube2 1
+    2300018: pawnshop:pCube3
+    2300020: pawnshop:pCube3 1
+    2300022: pawnshop:pCube4
+    2300024: pawnshop:pCube4 1
+    2300026: pawnshop:SuburbFacade1
+    2300028: polySurface5
+    2300030: polySurface6
+    2300032: polySurface7
+    2300034: postcard_stand_flat:Arm
+    2300036: postcard_stand_flat:Arm1
+    2300038: postcard_stand_flat:Arm10
+    2300040: postcard_stand_flat:Arm11
+    2300042: postcard_stand_flat:Arm12
+    2300044: postcard_stand_flat:Arm13
+    2300046: postcard_stand_flat:Arm14
+    2300048: postcard_stand_flat:Arm15
+    2300050: postcard_stand_flat:Arm2
+    2300052: postcard_stand_flat:Arm3
+    2300054: postcard_stand_flat:Arm4
+    2300056: postcard_stand_flat:Arm5
+    2300058: postcard_stand_flat:Arm6
+    2300060: postcard_stand_flat:Arm7
+    2300062: postcard_stand_flat:Arm8
+    2300064: postcard_stand_flat:Arm9
+    2300066: postcard_stand_flat:newsstand
+    2300068: postcard_stand_flat:pCube1
+    2300070: postcard_stand_flat:pCylinder1
+    2300072: postcard_stand_flat:Postcard
+    2300074: postcard_stand_flat:Postcard 1
+    2300076: postcard_stand_flat:Postcard 10
+    2300078: postcard_stand_flat:Postcard 11
+    2300080: postcard_stand_flat:Postcard 12
+    2300082: postcard_stand_flat:Postcard 13
+    2300084: postcard_stand_flat:Postcard 14
+    2300086: postcard_stand_flat:Postcard 15
+    2300088: postcard_stand_flat:Postcard 2
+    2300090: postcard_stand_flat:Postcard 3
+    2300092: postcard_stand_flat:Postcard 4
+    2300094: postcard_stand_flat:Postcard 5
+    2300096: postcard_stand_flat:Postcard 6
+    2300098: postcard_stand_flat:Postcard 7
+    2300100: postcard_stand_flat:Postcard 8
+    2300102: postcard_stand_flat:Postcard 9
+    2300104: postcard_stand_flat:pPlane1
+    2300106: postcard_stand_flat:pPlane10
+    2300108: postcard_stand_flat:pPlane12
+    2300110: postcard_stand_flat:pPlane2
+    2300112: postcard_stand_flat:pPlane3
+    2300114: postcard_stand_flat:pPlane4
+    2300116: postcard_stand_flat:pPlane5
+    2300118: postcard_stand_flat:pPlane6
+    2300120: postcard_stand_flat:pPlane7
+    2300122: postcard_stand_flat:pPlane8
+    2300124: postcard_stand_flat:pPlane9
+    2300126: pPlane10
+    2300128: pPlane12
+    2300130: pPlane13
+    2300132: pPlane14
+    2300134: pPlane16
+    2300136: pPlane17
+    2300138: pPlane18
+    2300140: pPlane19
+    2300142: pPlane2
+    2300144: pPlane20
+    2300146: pPlane21
+    2300148: pPlane22
+    2300150: pPlane26
+    2300152: pPlane27
+    2300154: pPlane28
+    2300156: pPlane29
+    2300158: pPlane3
+    2300160: pPlane30
+    2300162: pPlane4
+    2300164: pPlane5
+    2300166: pPlane9
+    2300168: pSphere1
+    3300000: commercialface2:pCube2
+    3300002: commercialface2:pCube2 1
+    3300004: commercialface2:pCube3
+    3300006: commercialface2:pCube3 1
+    3300008: commercialface2:pCube4
+    3300010: commercialface2:pCube4 1
+    3300012: commercialface2:SuburbFacade1
+    3300014: pawnshop:pCube2
+    3300016: pawnshop:pCube2 1
+    3300018: pawnshop:pCube3
+    3300020: pawnshop:pCube3 1
+    3300022: pawnshop:pCube4
+    3300024: pawnshop:pCube4 1
+    3300026: pawnshop:SuburbFacade1
+    3300028: polySurface5
+    3300030: polySurface6
+    3300032: polySurface7
+    3300034: postcard_stand_flat:Arm
+    3300036: postcard_stand_flat:Arm1
+    3300038: postcard_stand_flat:Arm10
+    3300040: postcard_stand_flat:Arm11
+    3300042: postcard_stand_flat:Arm12
+    3300044: postcard_stand_flat:Arm13
+    3300046: postcard_stand_flat:Arm14
+    3300048: postcard_stand_flat:Arm15
+    3300050: postcard_stand_flat:Arm2
+    3300052: postcard_stand_flat:Arm3
+    3300054: postcard_stand_flat:Arm4
+    3300056: postcard_stand_flat:Arm5
+    3300058: postcard_stand_flat:Arm6
+    3300060: postcard_stand_flat:Arm7
+    3300062: postcard_stand_flat:Arm8
+    3300064: postcard_stand_flat:Arm9
+    3300066: postcard_stand_flat:newsstand
+    3300068: postcard_stand_flat:pCube1
+    3300070: postcard_stand_flat:pCylinder1
+    3300072: postcard_stand_flat:Postcard
+    3300074: postcard_stand_flat:Postcard 1
+    3300076: postcard_stand_flat:Postcard 10
+    3300078: postcard_stand_flat:Postcard 11
+    3300080: postcard_stand_flat:Postcard 12
+    3300082: postcard_stand_flat:Postcard 13
+    3300084: postcard_stand_flat:Postcard 14
+    3300086: postcard_stand_flat:Postcard 15
+    3300088: postcard_stand_flat:Postcard 2
+    3300090: postcard_stand_flat:Postcard 3
+    3300092: postcard_stand_flat:Postcard 4
+    3300094: postcard_stand_flat:Postcard 5
+    3300096: postcard_stand_flat:Postcard 6
+    3300098: postcard_stand_flat:Postcard 7
+    3300100: postcard_stand_flat:Postcard 8
+    3300102: postcard_stand_flat:Postcard 9
+    3300104: postcard_stand_flat:pPlane1
+    3300106: postcard_stand_flat:pPlane10
+    3300108: postcard_stand_flat:pPlane12
+    3300110: postcard_stand_flat:pPlane2
+    3300112: postcard_stand_flat:pPlane3
+    3300114: postcard_stand_flat:pPlane4
+    3300116: postcard_stand_flat:pPlane5
+    3300118: postcard_stand_flat:pPlane6
+    3300120: postcard_stand_flat:pPlane7
+    3300122: postcard_stand_flat:pPlane8
+    3300124: postcard_stand_flat:pPlane9
+    3300126: pPlane10
+    3300128: pPlane12
+    3300130: pPlane13
+    3300132: pPlane14
+    3300134: pPlane16
+    3300136: pPlane17
+    3300138: pPlane18
+    3300140: pPlane19
+    3300142: pPlane2
+    3300144: pPlane20
+    3300146: pPlane21
+    3300148: pPlane22
+    3300150: pPlane26
+    3300152: pPlane27
+    3300154: pPlane28
+    3300156: pPlane29
+    3300158: pPlane3
+    3300160: pPlane30
+    3300162: pPlane4
+    3300164: pPlane5
+    3300166: pPlane9
+    3300168: pSphere1
+    4300000: pSphere1
+    4300002: pPlane2
+    4300004: pPlane3
+    4300006: pPlane4
+    4300008: pPlane5
+    4300010: pPlane22
+    4300012: polySurface5
+    4300014: polySurface6
+    4300016: polySurface7
+    4300018: pPlane26
+    4300020: Character1:MikeMesh
+    4300022: pPlane20
+    4300024: pPlane16
+    4300026: pPlane14
+    4300028: pPlane9
+    4300030: pPlane10
+    4300032: pPlane13
+    4300034: pPlane19
+    4300036: pPlane21
+    4300038: pPlane18
+    4300040: pPlane17
+    4300042: pPlane12
+    4300044: pawnshop:SuburbFacade1
+    4300046: pawnshop:pCube4
+    4300048: pawnshop:pCube3
+    4300050: pawnshop:pCube2
+    4300052: pawnshop:pCube4
+    4300054: pawnshop:pCube3
+    4300056: pawnshop:pCube2
+    4300058: postcard_stand_flat:pCube1
+    4300060: postcard_stand_flat:pCylinder1
+    4300062: postcard_stand_flat:Arm15
+    4300064: postcard_stand_flat:Postcard
+    4300066: postcard_stand_flat:Arm14
+    4300068: postcard_stand_flat:Postcard
+    4300070: postcard_stand_flat:Arm13
+    4300072: postcard_stand_flat:Postcard
+    4300074: postcard_stand_flat:Arm12
+    4300076: postcard_stand_flat:Postcard
+    4300078: postcard_stand_flat:Arm11
+    4300080: postcard_stand_flat:Postcard
+    4300082: postcard_stand_flat:Arm10
+    4300084: postcard_stand_flat:Postcard
+    4300086: postcard_stand_flat:Arm9
+    4300088: postcard_stand_flat:Postcard
+    4300090: postcard_stand_flat:Arm8
+    4300092: postcard_stand_flat:Postcard
+    4300094: postcard_stand_flat:Arm7
+    4300096: postcard_stand_flat:Postcard
+    4300098: postcard_stand_flat:Arm6
+    4300100: postcard_stand_flat:Postcard
+    4300102: postcard_stand_flat:Arm5
+    4300104: postcard_stand_flat:Postcard
+    4300106: postcard_stand_flat:Arm4
+    4300108: postcard_stand_flat:Postcard
+    4300110: postcard_stand_flat:Arm3
+    4300112: postcard_stand_flat:Postcard
+    4300114: postcard_stand_flat:Arm2
+    4300116: postcard_stand_flat:Postcard
+    4300118: postcard_stand_flat:Arm1
+    4300120: postcard_stand_flat:Postcard
+    4300122: postcard_stand_flat:Arm
+    4300124: postcard_stand_flat:Postcard
+    4300126: postcard_stand_flat:newsstand
+    4300128: postcard_stand_flat:pPlane1
+    4300130: postcard_stand_flat:pPlane2
+    4300132: postcard_stand_flat:pPlane3
+    4300134: postcard_stand_flat:pPlane4
+    4300136: postcard_stand_flat:pPlane5
+    4300138: postcard_stand_flat:pPlane6
+    4300140: postcard_stand_flat:pPlane7
+    4300142: postcard_stand_flat:pPlane8
+    4300144: postcard_stand_flat:pPlane9
+    4300146: postcard_stand_flat:pPlane10
+    4300148: postcard_stand_flat:pPlane12
+    4300150: pPlane27
+    4300152: pPlane28
+    4300154: pPlane29
+    4300156: pPlane30
+    4300158: commercialface2:SuburbFacade1
+    4300160: commercialface2:pCube4
+    4300162: commercialface2:pCube3
+    4300164: commercialface2:pCube2
+    4300166: commercialface2:pCube4
+    4300168: commercialface2:pCube3
+    4300170: commercialface2:pCube2
+    9500000: //RootNode
+    13700000: Character1:MikeMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

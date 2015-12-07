@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 4ff8791a49457e8489cb72762176c4c5
+timeCreated: 1447702513
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: curtains1
+    100002: //RootNode
+    100004: marketFacade_withDoor:facade
+    100006: marketFacade_withDoorRNgroup
+    100008: marketFacade_withDoorRNlocator
+    100010: polySurface1
+    100012: polySurface2
+    100014: polySurface3
+    100016: polySurface4
+    100018: polySurface4 1
+    100020: polySurface5
+    100022: polySurface6
+    100024: polySurface7
+    100026: setpiece_cube
+    100028: transform1
+    100030: transform2
+    100032: transform3
+    100034: transform4
+    100036: warehouse_walls_floor
+    100038: wood_floor
+    400000: curtains1
+    400002: //RootNode
+    400004: marketFacade_withDoor:facade
+    400006: marketFacade_withDoorRNgroup
+    400008: marketFacade_withDoorRNlocator
+    400010: polySurface1
+    400012: polySurface2
+    400014: polySurface3
+    400016: polySurface4
+    400018: polySurface4 1
+    400020: polySurface5
+    400022: polySurface6
+    400024: polySurface7
+    400026: setpiece_cube
+    400028: transform1
+    400030: transform2
+    400032: transform3
+    400034: transform4
+    400036: warehouse_walls_floor
+    400038: wood_floor
+    2300000: curtains1
+    2300002: marketFacade_withDoor:facade
+    2300004: polySurface5
+    2300006: polySurface6
+    2300008: polySurface7
+    2300010: wood_floor
+    3300000: curtains1
+    3300002: marketFacade_withDoor:facade
+    3300004: polySurface5
+    3300006: polySurface6
+    3300008: polySurface7
+    3300010: wood_floor
+    4300000: marketFacade_withDoor:facade
+    4300002: wood_floor
+    4300004: polySurface5
+    4300006: polySurface6
+    4300008: polySurface7
+    4300010: curtains1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

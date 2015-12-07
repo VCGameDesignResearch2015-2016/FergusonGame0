@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 9fafeeb9ad70eb241b58e1028ee125fe
+timeCreated: 1448307980
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bend1Handle
+    100002: Character1locator
+    100004: Character1RNannotation
+    100006: Character5
+    100008: curtain1
+    100010: curtain2
+    100012: curtain3
+    100014: curtain4
+    100016: curtain5
+    100018: curtain6
+    100020: curtain7
+    100022: curtain8
+    100024: curtain9
+    100026: curtains
+    100028: directionalLight1
+    100030: flagpole1:curve1
+    100032: flagpole1:extrudedSurface1
+    100034: flagpole1:ffd1Base
+    100036: flagpole1:ffd1Lattice
+    100038: flagpole1:group1
+    100040: flagpole1:group2
+    100042: flagpole1:nurbsSquare1
+    100044: flagpole1:pPlane1
+    100046: flagpole1:pPlane2
+    100048: flagpole1:pPlane3
+    100050: flagpole1:topnurbsSquare1
+    100052: flagpole:curve1
+    100054: flagpole:extrudedSurface1
+    100056: flagpole:ffd1Base
+    100058: flagpole:ffd1Lattice
+    100060: flagpole:group1
+    100062: flagpole:group2
+    100064: flagpole:nurbsSquare1
+    100066: flagpole:pPlane1
+    100068: flagpole:pPlane2
+    100070: flagpole:pPlane3
+    100072: flagpole:topnurbsSquare1
+    100074: flagpole_group
+    100076: flagpoleRN1annotation
+    100078: flagpoleRN1group
+    100080: flagpoleRN1locator
+    100082: flagpoleRNannotation
+    100084: flagpoleRNgroup
+    100086: flagpoleRNlocator1
+    100088: //RootNode
+    100090: groundPlane
+    100092: HouseFace6:brace1
+    100094: HouseFace6:brace1 1
+    100096: HouseFace6:brace1 2
+    100098: HouseFace6:brace2
+    100100: HouseFace6:brace2 1
+    100102: HouseFace6:brace2 2
+    100104: HouseFace6:pCube2
+    100106: HouseFace6:pCube2 1
+    100108: HouseFace6:pCube2 2
+    100110: HouseFace6:pCube2 3
+    100112: HouseFace6:pCube2 4
+    100114: HouseFace6:pCube2 5
+    100116: HouseFace6:pCube3
+    100118: HouseFace6:pCube3 1
+    100120: HouseFace6:pCube3 2
+    100122: HouseFace6:pCube3 3
+    100124: HouseFace6:pCube3 4
+    100126: HouseFace6:pCube3 5
+    100128: HouseFace6:pCube4
+    100130: HouseFace6:pCube4 1
+    100132: HouseFace6:pCube4 2
+    100134: HouseFace6:pCube4 3
+    100136: HouseFace6:pCube4 4
+    100138: HouseFace6:pCube4 5
+    100140: HouseFace6:SuburbFacade1
+    100142: houses
+    100144: pointLight1
+    100146: polySurface1
+    100148: polySurface2
+    100150: polySurface3
+    100152: polySurface4
+    100154: roadCurve
+    100156: roadPlane
+    100158: SuburbFacade1
+    100160: SuburbFacade2
+    100162: tree2:polySurface1
+    100164: tree3:polySurface1
+    100166: tree3:polySurface1 1
+    100168: tree3:polySurface1 2
+    100170: tree3:polySurface1 3
+    100172: tree3:pPlane3
+    100174: tree3:pPlane3 1
+    100176: tree3:pPlane3 2
+    100178: tree3:pPlane3 3
+    100180: tree3:transform1
+    100182: tree3:transform1 1
+    100184: tree3:transform1 2
+    100186: tree3:transform1 3
+    100188: tree3RNannotation
+    100190: tree3RNannotation 1
+    100192: tree3RNannotation 2
+    100194: tree3RNannotation 3
+    100196: tree3RNgroup
+    100198: tree3RNgroup 1
+    100200: tree3RNgroup 2
+    100202: tree3RNgroup 3
+    100204: tree3RNlocator
+    100206: tree3RNlocator1
+    100208: tree3RNlocator2
+    100210: tree3RNlocator3
+    100212: trees
+    400000: bend1Handle
+    400002: Character1locator
+    400004: Character1RNannotation
+    400006: Character5
+    400008: curtain1
+    400010: curtain2
+    400012: curtain3
+    400014: curtain4
+    400016: curtain5
+    400018: curtain6
+    400020: curtain7
+    400022: curtain8
+    400024: curtain9
+    400026: curtains
+    400028: directionalLight1
+    400030: flagpole1:curve1
+    400032: flagpole1:extrudedSurface1
+    400034: flagpole1:ffd1Base
+    400036: flagpole1:ffd1Lattice
+    400038: flagpole1:group1
+    400040: flagpole1:group2
+    400042: flagpole1:nurbsSquare1
+    400044: flagpole1:pPlane1
+    400046: flagpole1:pPlane2
+    400048: flagpole1:pPlane3
+    400050: flagpole1:topnurbsSquare1
+    400052: flagpole:curve1
+    400054: flagpole:extrudedSurface1
+    400056: flagpole:ffd1Base
+    400058: flagpole:ffd1Lattice
+    400060: flagpole:group1
+    400062: flagpole:group2
+    400064: flagpole:nurbsSquare1
+    400066: flagpole:pPlane1
+    400068: flagpole:pPlane2
+    400070: flagpole:pPlane3
+    400072: flagpole:topnurbsSquare1
+    400074: flagpole_group
+    400076: flagpoleRN1annotation
+    400078: flagpoleRN1group
+    400080: flagpoleRN1locator
+    400082: flagpoleRNannotation
+    400084: flagpoleRNgroup
+    400086: flagpoleRNlocator1
+    400088: //RootNode
+    400090: groundPlane
+    400092: HouseFace6:brace1
+    400094: HouseFace6:brace1 1
+    400096: HouseFace6:brace1 2
+    400098: HouseFace6:brace2
+    400100: HouseFace6:brace2 1
+    400102: HouseFace6:brace2 2
+    400104: HouseFace6:pCube2
+    400106: HouseFace6:pCube2 1
+    400108: HouseFace6:pCube2 2
+    400110: HouseFace6:pCube2 3
+    400112: HouseFace6:pCube2 4
+    400114: HouseFace6:pCube2 5
+    400116: HouseFace6:pCube3
+    400118: HouseFace6:pCube3 1
+    400120: HouseFace6:pCube3 2
+    400122: HouseFace6:pCube3 3
+    400124: HouseFace6:pCube3 4
+    400126: HouseFace6:pCube3 5
+    400128: HouseFace6:pCube4
+    400130: HouseFace6:pCube4 1
+    400132: HouseFace6:pCube4 2
+    400134: HouseFace6:pCube4 3
+    400136: HouseFace6:pCube4 4
+    400138: HouseFace6:pCube4 5
+    400140: HouseFace6:SuburbFacade1
+    400142: houses
+    400144: pointLight1
+    400146: polySurface1
+    400148: polySurface2
+    400150: polySurface3
+    400152: polySurface4
+    400154: roadCurve
+    400156: roadPlane
+    400158: SuburbFacade1
+    400160: SuburbFacade2
+    400162: tree2:polySurface1
+    400164: tree3:polySurface1
+    400166: tree3:polySurface1 1
+    400168: tree3:polySurface1 2
+    400170: tree3:polySurface1 3
+    400172: tree3:pPlane3
+    400174: tree3:pPlane3 1
+    400176: tree3:pPlane3 2
+    400178: tree3:pPlane3 3
+    400180: tree3:transform1
+    400182: tree3:transform1 1
+    400184: tree3:transform1 2
+    400186: tree3:transform1 3
+    400188: tree3RNannotation
+    400190: tree3RNannotation 1
+    400192: tree3RNannotation 2
+    400194: tree3RNannotation 3
+    400196: tree3RNgroup
+    400198: tree3RNgroup 1
+    400200: tree3RNgroup 2
+    400202: tree3RNgroup 3
+    400204: tree3RNlocator
+    400206: tree3RNlocator1
+    400208: tree3RNlocator2
+    400210: tree3RNlocator3
+    400212: trees
+    2300000: curtain1
+    2300002: curtain2
+    2300004: curtain3
+    2300006: curtain4
+    2300008: curtain5
+    2300010: curtain6
+    2300012: curtain7
+    2300014: curtain8
+    2300016: curtain9
+    2300018: flagpole1:pPlane1
+    2300020: flagpole1:pPlane2
+    2300022: flagpole1:pPlane3
+    2300024: flagpole:pPlane1
+    2300026: flagpole:pPlane2
+    2300028: flagpole:pPlane3
+    2300030: groundPlane
+    2300032: HouseFace6:pCube2
+    2300034: HouseFace6:pCube2 1
+    2300036: HouseFace6:pCube2 2
+    2300038: HouseFace6:pCube2 3
+    2300040: HouseFace6:pCube2 4
+    2300042: HouseFace6:pCube2 5
+    2300044: HouseFace6:pCube3
+    2300046: HouseFace6:pCube3 1
+    2300048: HouseFace6:pCube3 2
+    2300050: HouseFace6:pCube3 3
+    2300052: HouseFace6:pCube3 4
+    2300054: HouseFace6:pCube3 5
+    2300056: HouseFace6:pCube4
+    2300058: HouseFace6:pCube4 1
+    2300060: HouseFace6:pCube4 2
+    2300062: HouseFace6:pCube4 3
+    2300064: HouseFace6:pCube4 4
+    2300066: HouseFace6:pCube4 5
+    2300068: HouseFace6:SuburbFacade1
+    2300070: polySurface1
+    2300072: polySurface2
+    2300074: polySurface3
+    2300076: polySurface4
+    2300078: roadPlane
+    2300080: SuburbFacade1
+    2300082: SuburbFacade2
+    2300084: tree2:polySurface1
+    2300086: tree3:pPlane3
+    2300088: tree3:pPlane3 1
+    2300090: tree3:pPlane3 2
+    2300092: tree3:pPlane3 3
+    3300000: curtain1
+    3300002: curtain2
+    3300004: curtain3
+    3300006: curtain4
+    3300008: curtain5
+    3300010: curtain6
+    3300012: curtain7
+    3300014: curtain8
+    3300016: curtain9
+    3300018: flagpole1:pPlane1
+    3300020: flagpole1:pPlane2
+    3300022: flagpole1:pPlane3
+    3300024: flagpole:pPlane1
+    3300026: flagpole:pPlane2
+    3300028: flagpole:pPlane3
+    3300030: groundPlane
+    3300032: HouseFace6:pCube2
+    3300034: HouseFace6:pCube2 1
+    3300036: HouseFace6:pCube2 2
+    3300038: HouseFace6:pCube2 3
+    3300040: HouseFace6:pCube2 4
+    3300042: HouseFace6:pCube2 5
+    3300044: HouseFace6:pCube3
+    3300046: HouseFace6:pCube3 1
+    3300048: HouseFace6:pCube3 2
+    3300050: HouseFace6:pCube3 3
+    3300052: HouseFace6:pCube3 4
+    3300054: HouseFace6:pCube3 5
+    3300056: HouseFace6:pCube4
+    3300058: HouseFace6:pCube4 1
+    3300060: HouseFace6:pCube4 2
+    3300062: HouseFace6:pCube4 3
+    3300064: HouseFace6:pCube4 4
+    3300066: HouseFace6:pCube4 5
+    3300068: HouseFace6:SuburbFacade1
+    3300070: polySurface1
+    3300072: polySurface2
+    3300074: polySurface3
+    3300076: polySurface4
+    3300078: roadPlane
+    3300080: SuburbFacade1
+    3300082: SuburbFacade2
+    3300084: tree2:polySurface1
+    3300086: tree3:pPlane3
+    3300088: tree3:pPlane3 1
+    3300090: tree3:pPlane3 2
+    3300092: tree3:pPlane3 3
+    4300000: curtain1
+    4300002: curtain2
+    4300004: curtain3
+    4300006: curtain4
+    4300008: curtain5
+    4300010: curtain6
+    4300012: curtain7
+    4300014: curtain8
+    4300016: curtain9
+    4300018: groundPlane
+    4300020: roadPlane
+    4300022: tree3:pPlane3
+    4300024: tree3:pPlane3
+    4300026: tree3:pPlane3
+    4300028: tree3:pPlane3
+    4300030: polySurface4
+    4300032: polySurface3
+    4300034: polySurface2
+    4300036: polySurface1
+    4300038: tree2:polySurface1
+    4300040: SuburbFacade2
+    4300042: HouseFace6:pCube4
+    4300044: HouseFace6:pCube3
+    4300046: HouseFace6:pCube2
+    4300048: HouseFace6:pCube4
+    4300050: HouseFace6:pCube3
+    4300052: HouseFace6:pCube2
+    4300054: SuburbFacade1
+    4300056: HouseFace6:pCube4
+    4300058: HouseFace6:pCube3
+    4300060: HouseFace6:pCube2
+    4300062: HouseFace6:pCube4
+    4300064: HouseFace6:pCube3
+    4300066: HouseFace6:pCube2
+    4300068: HouseFace6:SuburbFacade1
+    4300070: HouseFace6:pCube4
+    4300072: HouseFace6:pCube3
+    4300074: HouseFace6:pCube2
+    4300076: HouseFace6:pCube4
+    4300078: HouseFace6:pCube3
+    4300080: HouseFace6:pCube2
+    4300082: flagpole:pPlane1
+    4300084: flagpole:pPlane2
+    4300086: flagpole:pPlane3
+    4300088: flagpole1:pPlane1
+    4300090: flagpole1:pPlane2
+    4300092: flagpole1:pPlane3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

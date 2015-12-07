@@ -1,0 +1,1 @@
+﻿using UnityEngine;using System.Collections;public class ThirdCharacterSpawn : MonoBehaviour {				// Use this for initialization	void Start () {		setInitialPosition ();	}		// Update is called once per frame	void Update () {			}		void setInitialPosition() {		// put player at a spawnpoint			}}

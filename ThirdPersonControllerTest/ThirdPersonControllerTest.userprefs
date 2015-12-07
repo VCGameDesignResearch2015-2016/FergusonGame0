@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\CMPU-376-Games\SocialClimber\Assets\Scripts\PlayerNPCInteraction.cs">
+    <Files>
+      <File FileName="..\..\CMPU-376-Games\SocialClimber\Assets\Scripts\PlayerNPCInteraction.cs" Line="26" Column="5" />
+      <File FileName="..\GameFramework\GameFramework\Assets\Scripts\EnemyCop\CopAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerCollision.cs" Line="38" Column="3" />
+      <File FileName="Assets\Scripts\PosterChoice.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

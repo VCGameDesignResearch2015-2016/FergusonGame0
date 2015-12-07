@@ -1,0 +1,1912 @@
+fileFormatVersion: 2
+guid: 96aa2126a9ba012418f5722ac105e102
+timeCreated: 1448038293
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Backdrop
+    100002: big_grid_thing:Bar
+    100004: big_grid_thing:Bar 1
+    100006: big_grid_thing:Bar 10
+    100008: big_grid_thing:Bar 100
+    100010: big_grid_thing:Bar 101
+    100012: big_grid_thing:Bar 102
+    100014: big_grid_thing:Bar 103
+    100016: big_grid_thing:Bar 104
+    100018: big_grid_thing:Bar 105
+    100020: big_grid_thing:Bar 106
+    100022: big_grid_thing:Bar 107
+    100024: big_grid_thing:Bar 108
+    100026: big_grid_thing:Bar 109
+    100028: big_grid_thing:Bar 11
+    100030: big_grid_thing:Bar 110
+    100032: big_grid_thing:Bar 111
+    100034: big_grid_thing:Bar 112
+    100036: big_grid_thing:Bar 113
+    100038: big_grid_thing:Bar 114
+    100040: big_grid_thing:Bar 115
+    100042: big_grid_thing:Bar 116
+    100044: big_grid_thing:Bar 117
+    100046: big_grid_thing:Bar 118
+    100048: big_grid_thing:Bar 119
+    100050: big_grid_thing:Bar 12
+    100052: big_grid_thing:Bar 120
+    100054: big_grid_thing:Bar 121
+    100056: big_grid_thing:Bar 122
+    100058: big_grid_thing:Bar 123
+    100060: big_grid_thing:Bar 124
+    100062: big_grid_thing:Bar 125
+    100064: big_grid_thing:Bar 13
+    100066: big_grid_thing:Bar 14
+    100068: big_grid_thing:Bar 15
+    100070: big_grid_thing:Bar 16
+    100072: big_grid_thing:Bar 17
+    100074: big_grid_thing:Bar 18
+    100076: big_grid_thing:Bar 19
+    100078: big_grid_thing:Bar 2
+    100080: big_grid_thing:Bar 20
+    100082: big_grid_thing:Bar 21
+    100084: big_grid_thing:Bar 22
+    100086: big_grid_thing:Bar 23
+    100088: big_grid_thing:Bar 24
+    100090: big_grid_thing:Bar 25
+    100092: big_grid_thing:Bar 26
+    100094: big_grid_thing:Bar 27
+    100096: big_grid_thing:Bar 28
+    100098: big_grid_thing:Bar 29
+    100100: big_grid_thing:Bar 3
+    100102: big_grid_thing:Bar 30
+    100104: big_grid_thing:Bar 31
+    100106: big_grid_thing:Bar 32
+    100108: big_grid_thing:Bar 33
+    100110: big_grid_thing:Bar 34
+    100112: big_grid_thing:Bar 35
+    100114: big_grid_thing:Bar 36
+    100116: big_grid_thing:Bar 37
+    100118: big_grid_thing:Bar 38
+    100120: big_grid_thing:Bar 39
+    100122: big_grid_thing:Bar 4
+    100124: big_grid_thing:Bar 40
+    100126: big_grid_thing:Bar 41
+    100128: big_grid_thing:Bar 42
+    100130: big_grid_thing:Bar 43
+    100132: big_grid_thing:Bar 44
+    100134: big_grid_thing:Bar 45
+    100136: big_grid_thing:Bar 46
+    100138: big_grid_thing:Bar 47
+    100140: big_grid_thing:Bar 48
+    100142: big_grid_thing:Bar 49
+    100144: big_grid_thing:Bar 5
+    100146: big_grid_thing:Bar 50
+    100148: big_grid_thing:Bar 51
+    100150: big_grid_thing:Bar 52
+    100152: big_grid_thing:Bar 53
+    100154: big_grid_thing:Bar 54
+    100156: big_grid_thing:Bar 55
+    100158: big_grid_thing:Bar 56
+    100160: big_grid_thing:Bar 57
+    100162: big_grid_thing:Bar 58
+    100164: big_grid_thing:Bar 59
+    100166: big_grid_thing:Bar 6
+    100168: big_grid_thing:Bar 60
+    100170: big_grid_thing:Bar 61
+    100172: big_grid_thing:Bar 62
+    100174: big_grid_thing:Bar 63
+    100176: big_grid_thing:Bar 64
+    100178: big_grid_thing:Bar 65
+    100180: big_grid_thing:Bar 66
+    100182: big_grid_thing:Bar 67
+    100184: big_grid_thing:Bar 68
+    100186: big_grid_thing:Bar 69
+    100188: big_grid_thing:Bar 7
+    100190: big_grid_thing:Bar 70
+    100192: big_grid_thing:Bar 71
+    100194: big_grid_thing:Bar 72
+    100196: big_grid_thing:Bar 73
+    100198: big_grid_thing:Bar 74
+    100200: big_grid_thing:Bar 75
+    100202: big_grid_thing:Bar 76
+    100204: big_grid_thing:Bar 77
+    100206: big_grid_thing:Bar 78
+    100208: big_grid_thing:Bar 79
+    100210: big_grid_thing:Bar 8
+    100212: big_grid_thing:Bar 80
+    100214: big_grid_thing:Bar 81
+    100216: big_grid_thing:Bar 82
+    100218: big_grid_thing:Bar 83
+    100220: big_grid_thing:Bar 84
+    100222: big_grid_thing:Bar 85
+    100224: big_grid_thing:Bar 86
+    100226: big_grid_thing:Bar 87
+    100228: big_grid_thing:Bar 88
+    100230: big_grid_thing:Bar 89
+    100232: big_grid_thing:Bar 9
+    100234: big_grid_thing:Bar 90
+    100236: big_grid_thing:Bar 91
+    100238: big_grid_thing:Bar 92
+    100240: big_grid_thing:Bar 93
+    100242: big_grid_thing:Bar 94
+    100244: big_grid_thing:Bar 95
+    100246: big_grid_thing:Bar 96
+    100248: big_grid_thing:Bar 97
+    100250: big_grid_thing:Bar 98
+    100252: big_grid_thing:Bar 99
+    100254: big_grid_thing:Bar1
+    100256: big_grid_thing:Bar1 1
+    100258: big_grid_thing:Bar1 10
+    100260: big_grid_thing:Bar1 100
+    100262: big_grid_thing:Bar1 101
+    100264: big_grid_thing:Bar1 102
+    100266: big_grid_thing:Bar1 103
+    100268: big_grid_thing:Bar1 104
+    100270: big_grid_thing:Bar1 105
+    100272: big_grid_thing:Bar1 106
+    100274: big_grid_thing:Bar1 107
+    100276: big_grid_thing:Bar1 108
+    100278: big_grid_thing:Bar1 109
+    100280: big_grid_thing:Bar1 11
+    100282: big_grid_thing:Bar1 110
+    100284: big_grid_thing:Bar1 111
+    100286: big_grid_thing:Bar1 112
+    100288: big_grid_thing:Bar1 113
+    100290: big_grid_thing:Bar1 114
+    100292: big_grid_thing:Bar1 115
+    100294: big_grid_thing:Bar1 116
+    100296: big_grid_thing:Bar1 117
+    100298: big_grid_thing:Bar1 118
+    100300: big_grid_thing:Bar1 119
+    100302: big_grid_thing:Bar1 12
+    100304: big_grid_thing:Bar1 120
+    100306: big_grid_thing:Bar1 121
+    100308: big_grid_thing:Bar1 122
+    100310: big_grid_thing:Bar1 123
+    100312: big_grid_thing:Bar1 124
+    100314: big_grid_thing:Bar1 125
+    100316: big_grid_thing:Bar1 13
+    100318: big_grid_thing:Bar1 14
+    100320: big_grid_thing:Bar1 15
+    100322: big_grid_thing:Bar1 16
+    100324: big_grid_thing:Bar1 17
+    100326: big_grid_thing:Bar1 18
+    100328: big_grid_thing:Bar1 19
+    100330: big_grid_thing:Bar1 2
+    100332: big_grid_thing:Bar1 20
+    100334: big_grid_thing:Bar1 21
+    100336: big_grid_thing:Bar1 22
+    100338: big_grid_thing:Bar1 23
+    100340: big_grid_thing:Bar1 24
+    100342: big_grid_thing:Bar1 25
+    100344: big_grid_thing:Bar1 26
+    100346: big_grid_thing:Bar1 27
+    100348: big_grid_thing:Bar1 28
+    100350: big_grid_thing:Bar1 29
+    100352: big_grid_thing:Bar1 3
+    100354: big_grid_thing:Bar1 30
+    100356: big_grid_thing:Bar1 31
+    100358: big_grid_thing:Bar1 32
+    100360: big_grid_thing:Bar1 33
+    100362: big_grid_thing:Bar1 34
+    100364: big_grid_thing:Bar1 35
+    100366: big_grid_thing:Bar1 36
+    100368: big_grid_thing:Bar1 37
+    100370: big_grid_thing:Bar1 38
+    100372: big_grid_thing:Bar1 39
+    100374: big_grid_thing:Bar1 4
+    100376: big_grid_thing:Bar1 40
+    100378: big_grid_thing:Bar1 41
+    100380: big_grid_thing:Bar1 42
+    100382: big_grid_thing:Bar1 43
+    100384: big_grid_thing:Bar1 44
+    100386: big_grid_thing:Bar1 45
+    100388: big_grid_thing:Bar1 46
+    100390: big_grid_thing:Bar1 47
+    100392: big_grid_thing:Bar1 48
+    100394: big_grid_thing:Bar1 49
+    100396: big_grid_thing:Bar1 5
+    100398: big_grid_thing:Bar1 50
+    100400: big_grid_thing:Bar1 51
+    100402: big_grid_thing:Bar1 52
+    100404: big_grid_thing:Bar1 53
+    100406: big_grid_thing:Bar1 54
+    100408: big_grid_thing:Bar1 55
+    100410: big_grid_thing:Bar1 56
+    100412: big_grid_thing:Bar1 57
+    100414: big_grid_thing:Bar1 58
+    100416: big_grid_thing:Bar1 59
+    100418: big_grid_thing:Bar1 6
+    100420: big_grid_thing:Bar1 60
+    100422: big_grid_thing:Bar1 61
+    100424: big_grid_thing:Bar1 62
+    100426: big_grid_thing:Bar1 63
+    100428: big_grid_thing:Bar1 64
+    100430: big_grid_thing:Bar1 65
+    100432: big_grid_thing:Bar1 66
+    100434: big_grid_thing:Bar1 67
+    100436: big_grid_thing:Bar1 68
+    100438: big_grid_thing:Bar1 69
+    100440: big_grid_thing:Bar1 7
+    100442: big_grid_thing:Bar1 70
+    100444: big_grid_thing:Bar1 71
+    100446: big_grid_thing:Bar1 72
+    100448: big_grid_thing:Bar1 73
+    100450: big_grid_thing:Bar1 74
+    100452: big_grid_thing:Bar1 75
+    100454: big_grid_thing:Bar1 76
+    100456: big_grid_thing:Bar1 77
+    100458: big_grid_thing:Bar1 78
+    100460: big_grid_thing:Bar1 79
+    100462: big_grid_thing:Bar1 8
+    100464: big_grid_thing:Bar1 80
+    100466: big_grid_thing:Bar1 81
+    100468: big_grid_thing:Bar1 82
+    100470: big_grid_thing:Bar1 83
+    100472: big_grid_thing:Bar1 84
+    100474: big_grid_thing:Bar1 85
+    100476: big_grid_thing:Bar1 86
+    100478: big_grid_thing:Bar1 87
+    100480: big_grid_thing:Bar1 88
+    100482: big_grid_thing:Bar1 89
+    100484: big_grid_thing:Bar1 9
+    100486: big_grid_thing:Bar1 90
+    100488: big_grid_thing:Bar1 91
+    100490: big_grid_thing:Bar1 92
+    100492: big_grid_thing:Bar1 93
+    100494: big_grid_thing:Bar1 94
+    100496: big_grid_thing:Bar1 95
+    100498: big_grid_thing:Bar1 96
+    100500: big_grid_thing:Bar1 97
+    100502: big_grid_thing:Bar1 98
+    100504: big_grid_thing:Bar1 99
+    100506: big_grid_thing:bars
+    100508: big_grid_thing:bars11
+    100510: big_grid_thing:bars11 1
+    100512: big_grid_thing:bars11 2
+    100514: big_grid_thing:bars12
+    100516: big_grid_thing:bars12 1
+    100518: big_grid_thing:bars12 2
+    100520: big_grid_thing:bars13
+    100522: big_grid_thing:bars13 1
+    100524: big_grid_thing:bars13 2
+    100526: big_grid_thing:bars14
+    100528: big_grid_thing:bars14 1
+    100530: big_grid_thing:bars14 2
+    100532: big_grid_thing:bars15
+    100534: big_grid_thing:bars15 1
+    100536: big_grid_thing:bars15 2
+    100538: big_grid_thing:bars16
+    100540: big_grid_thing:bars16 1
+    100542: big_grid_thing:bars16 2
+    100544: big_grid_thing:bars17
+    100546: big_grid_thing:bars17 1
+    100548: big_grid_thing:bars17 2
+    100550: big_grid_thing:bars18
+    100552: big_grid_thing:bars18 1
+    100554: big_grid_thing:bars18 2
+    100556: big_grid_thing:bars19
+    100558: big_grid_thing:bars19 1
+    100560: big_grid_thing:bars19 2
+    100562: big_grid_thing:bars20
+    100564: big_grid_thing:bars20 1
+    100566: big_grid_thing:bars20 2
+    100568: big_grid_thing:bars21
+    100570: big_grid_thing:bars21 1
+    100572: big_grid_thing:bars21 2
+    100574: big_grid_thing:bars22
+    100576: big_grid_thing:bars22 1
+    100578: big_grid_thing:bars22 2
+    100580: big_grid_thing:bars23
+    100582: big_grid_thing:bars23 1
+    100584: big_grid_thing:bars23 2
+    100586: big_grid_thing:bars24
+    100588: big_grid_thing:bars24 1
+    100590: big_grid_thing:bars24 2
+    100592: big_grid_thing:bars25
+    100594: big_grid_thing:bars25 1
+    100596: big_grid_thing:bars25 2
+    100598: big_grid_thing:bars26
+    100600: big_grid_thing:bars26 1
+    100602: big_grid_thing:bars26 2
+    100604: big_grid_thing:bars27
+    100606: big_grid_thing:bars27 1
+    100608: big_grid_thing:bars27 2
+    100610: big_grid_thing:bars28
+    100612: big_grid_thing:bars28 1
+    100614: big_grid_thing:bars28 2
+    100616: big_grid_thing:bars29
+    100618: big_grid_thing:bars29 1
+    100620: big_grid_thing:bars29 2
+    100622: big_grid_thing:bars30
+    100624: big_grid_thing:bars30 1
+    100626: big_grid_thing:bars30 2
+    100628: big_grid_thing:bars31
+    100630: big_grid_thing:bars31 1
+    100632: big_grid_thing:bars31 2
+    100634: big_grid_thing:bars32
+    100636: big_grid_thing:bars32 1
+    100638: big_grid_thing:bars32 2
+    100640: big_grid_thing:bars33
+    100642: big_grid_thing:bars33 1
+    100644: big_grid_thing:bars33 2
+    100646: big_grid_thing:bars34
+    100648: big_grid_thing:bars34 1
+    100650: big_grid_thing:bars34 2
+    100652: big_grid_thing:bars35
+    100654: big_grid_thing:bars35 1
+    100656: big_grid_thing:bars35 2
+    100658: big_grid_thing:bars36
+    100660: big_grid_thing:bars36 1
+    100662: big_grid_thing:bars36 2
+    100664: big_grid_thing:bars37
+    100666: big_grid_thing:bars37 1
+    100668: big_grid_thing:bars37 2
+    100670: big_grid_thing:bars38
+    100672: big_grid_thing:bars38 1
+    100674: big_grid_thing:bars38 2
+    100676: big_grid_thing:bars39
+    100678: big_grid_thing:bars39 1
+    100680: big_grid_thing:bars39 2
+    100682: big_grid_thing:bars40
+    100684: big_grid_thing:bars40 1
+    100686: big_grid_thing:bars40 2
+    100688: big_grid_thing:bars41
+    100690: big_grid_thing:bars41 1
+    100692: big_grid_thing:bars41 2
+    100694: big_grid_thing:bars42
+    100696: big_grid_thing:bars42 1
+    100698: big_grid_thing:bars42 2
+    100700: big_grid_thing:bars43
+    100702: big_grid_thing:bars43 1
+    100704: big_grid_thing:bars43 2
+    100706: big_grid_thing:bars44
+    100708: big_grid_thing:bars44 1
+    100710: big_grid_thing:bars44 2
+    100712: big_grid_thing:bars45
+    100714: big_grid_thing:bars45 1
+    100716: big_grid_thing:bars45 2
+    100718: big_grid_thing:bars46
+    100720: big_grid_thing:bars46 1
+    100722: big_grid_thing:bars46 2
+    100724: big_grid_thing:bars47
+    100726: big_grid_thing:bars47 1
+    100728: big_grid_thing:bars47 2
+    100730: big_grid_thing:bars48
+    100732: big_grid_thing:bars48 1
+    100734: big_grid_thing:bars48 2
+    100736: big_grid_thing:bars49
+    100738: big_grid_thing:bars49 1
+    100740: big_grid_thing:bars49 2
+    100742: big_grid_thing:bars50
+    100744: big_grid_thing:bars50 1
+    100746: big_grid_thing:bars50 2
+    100748: big_grid_thing:bars51
+    100750: big_grid_thing:bars51 1
+    100752: big_grid_thing:bars51 2
+    100754: big_grid_thing:bars52
+    100756: big_grid_thing:bars53
+    100758: big_grid_thingRNannotation
+    100760: big_grid_thingRNgroup
+    100762: big_grid_thingRNlocator
+    100764: cameraOnTripod:camera
+    100766: cameraOnTripod:polySurface1
+    100768: cameraOnTripod:polySurface2
+    100770: cameraOnTripod:polySurface3
+    100772: cameraOnTripod:polySurface4
+    100774: cameraOnTripod:polySurface5
+    100776: cameraOnTripod:polySurface6
+    100778: cameraOnTripod:polySurface7
+    100780: cameraOnTripod:tripod
+    100782: cameraOnTripodRNannotation
+    100784: cameraOnTripodRNgroup
+    100786: cameraOnTripodRNlocator
+    100788: group1
+    100790: ladder:back
+    100792: ladder:front
+    100794: ladder:ladder
+    100796: ladder:pCube10
+    100798: ladder:pCube10 1
+    100800: ladder:pCube12
+    100802: ladder:pCube12 1
+    100804: ladder:pCube13
+    100806: ladder:pCube13 1
+    100808: ladder:pCube14
+    100810: ladder:pCube14 1
+    100812: ladder:pCube15
+    100814: ladder:pCube15 1
+    100816: ladder:pCube16
+    100818: ladder:pCube16 1
+    100820: ladder:pCube17
+    100822: ladder:pCube17 1
+    100824: ladder:pCube19
+    100826: ladder:pCube2
+    100828: ladder:pCube20
+    100830: ladderRNannotation
+    100832: ladderRNgroup
+    100834: ladderRNlocator
+    100836: light_facing_out
+    100838: light_stand
+    100840: lightReflectorThing:light_facing_out
+    100842: lightReflectorThing:light_stand
+    100844: lightReflectorThing:polySurface4
+    100846: lightReflectorThing:polySurface6
+    100848: lightReflectorThing:polySurface7
+    100850: lightReflectorThing:polySurface8
+    100852: lightReflectorThing:white_backing
+    100854: //RootNode
+    100856: pCube1
+    100858: pCube2
+    100860: pointLight1
+    100862: polySurface4
+    100864: polySurface6
+    100866: polySurface7
+    100868: polySurface8
+    100870: pPlane1
+    100872: pPlane2
+    100874: pPlane3
+    100876: pPlane4
+    100878: pPlane5
+    100880: pPlane6
+    100882: pPlane7
+    100884: spotLight1
+    100886: spotLight2
+    100888: tree2:polySurface1
+    100890: tree2:polySurface1 1
+    100892: tree2RNannotation
+    100894: tree2RNannotation 1
+    100896: tree2RNgroup
+    100898: tree2RNgroup 1
+    100900: tree2RNlocator
+    100902: tree2RNlocator1
+    100904: tree3:polySurface1
+    100906: tree3:polySurface1 1
+    100908: tree3:pPlane3
+    100910: tree3:pPlane3 1
+    100912: tree3:transform1
+    100914: tree3:transform1 1
+    100916: tree3RNannotation
+    100918: tree3RNannotation 1
+    100920: tree3RNgroup
+    100922: tree3RNgroup 1
+    100924: tree3RNlocator
+    100926: tree3RNlocator1
+    100928: white_backing
+    400000: Backdrop
+    400002: big_grid_thing:Bar
+    400004: big_grid_thing:Bar 1
+    400006: big_grid_thing:Bar 10
+    400008: big_grid_thing:Bar 100
+    400010: big_grid_thing:Bar 101
+    400012: big_grid_thing:Bar 102
+    400014: big_grid_thing:Bar 103
+    400016: big_grid_thing:Bar 104
+    400018: big_grid_thing:Bar 105
+    400020: big_grid_thing:Bar 106
+    400022: big_grid_thing:Bar 107
+    400024: big_grid_thing:Bar 108
+    400026: big_grid_thing:Bar 109
+    400028: big_grid_thing:Bar 11
+    400030: big_grid_thing:Bar 110
+    400032: big_grid_thing:Bar 111
+    400034: big_grid_thing:Bar 112
+    400036: big_grid_thing:Bar 113
+    400038: big_grid_thing:Bar 114
+    400040: big_grid_thing:Bar 115
+    400042: big_grid_thing:Bar 116
+    400044: big_grid_thing:Bar 117
+    400046: big_grid_thing:Bar 118
+    400048: big_grid_thing:Bar 119
+    400050: big_grid_thing:Bar 12
+    400052: big_grid_thing:Bar 120
+    400054: big_grid_thing:Bar 121
+    400056: big_grid_thing:Bar 122
+    400058: big_grid_thing:Bar 123
+    400060: big_grid_thing:Bar 124
+    400062: big_grid_thing:Bar 125
+    400064: big_grid_thing:Bar 13
+    400066: big_grid_thing:Bar 14
+    400068: big_grid_thing:Bar 15
+    400070: big_grid_thing:Bar 16
+    400072: big_grid_thing:Bar 17
+    400074: big_grid_thing:Bar 18
+    400076: big_grid_thing:Bar 19
+    400078: big_grid_thing:Bar 2
+    400080: big_grid_thing:Bar 20
+    400082: big_grid_thing:Bar 21
+    400084: big_grid_thing:Bar 22
+    400086: big_grid_thing:Bar 23
+    400088: big_grid_thing:Bar 24
+    400090: big_grid_thing:Bar 25
+    400092: big_grid_thing:Bar 26
+    400094: big_grid_thing:Bar 27
+    400096: big_grid_thing:Bar 28
+    400098: big_grid_thing:Bar 29
+    400100: big_grid_thing:Bar 3
+    400102: big_grid_thing:Bar 30
+    400104: big_grid_thing:Bar 31
+    400106: big_grid_thing:Bar 32
+    400108: big_grid_thing:Bar 33
+    400110: big_grid_thing:Bar 34
+    400112: big_grid_thing:Bar 35
+    400114: big_grid_thing:Bar 36
+    400116: big_grid_thing:Bar 37
+    400118: big_grid_thing:Bar 38
+    400120: big_grid_thing:Bar 39
+    400122: big_grid_thing:Bar 4
+    400124: big_grid_thing:Bar 40
+    400126: big_grid_thing:Bar 41
+    400128: big_grid_thing:Bar 42
+    400130: big_grid_thing:Bar 43
+    400132: big_grid_thing:Bar 44
+    400134: big_grid_thing:Bar 45
+    400136: big_grid_thing:Bar 46
+    400138: big_grid_thing:Bar 47
+    400140: big_grid_thing:Bar 48
+    400142: big_grid_thing:Bar 49
+    400144: big_grid_thing:Bar 5
+    400146: big_grid_thing:Bar 50
+    400148: big_grid_thing:Bar 51
+    400150: big_grid_thing:Bar 52
+    400152: big_grid_thing:Bar 53
+    400154: big_grid_thing:Bar 54
+    400156: big_grid_thing:Bar 55
+    400158: big_grid_thing:Bar 56
+    400160: big_grid_thing:Bar 57
+    400162: big_grid_thing:Bar 58
+    400164: big_grid_thing:Bar 59
+    400166: big_grid_thing:Bar 6
+    400168: big_grid_thing:Bar 60
+    400170: big_grid_thing:Bar 61
+    400172: big_grid_thing:Bar 62
+    400174: big_grid_thing:Bar 63
+    400176: big_grid_thing:Bar 64
+    400178: big_grid_thing:Bar 65
+    400180: big_grid_thing:Bar 66
+    400182: big_grid_thing:Bar 67
+    400184: big_grid_thing:Bar 68
+    400186: big_grid_thing:Bar 69
+    400188: big_grid_thing:Bar 7
+    400190: big_grid_thing:Bar 70
+    400192: big_grid_thing:Bar 71
+    400194: big_grid_thing:Bar 72
+    400196: big_grid_thing:Bar 73
+    400198: big_grid_thing:Bar 74
+    400200: big_grid_thing:Bar 75
+    400202: big_grid_thing:Bar 76
+    400204: big_grid_thing:Bar 77
+    400206: big_grid_thing:Bar 78
+    400208: big_grid_thing:Bar 79
+    400210: big_grid_thing:Bar 8
+    400212: big_grid_thing:Bar 80
+    400214: big_grid_thing:Bar 81
+    400216: big_grid_thing:Bar 82
+    400218: big_grid_thing:Bar 83
+    400220: big_grid_thing:Bar 84
+    400222: big_grid_thing:Bar 85
+    400224: big_grid_thing:Bar 86
+    400226: big_grid_thing:Bar 87
+    400228: big_grid_thing:Bar 88
+    400230: big_grid_thing:Bar 89
+    400232: big_grid_thing:Bar 9
+    400234: big_grid_thing:Bar 90
+    400236: big_grid_thing:Bar 91
+    400238: big_grid_thing:Bar 92
+    400240: big_grid_thing:Bar 93
+    400242: big_grid_thing:Bar 94
+    400244: big_grid_thing:Bar 95
+    400246: big_grid_thing:Bar 96
+    400248: big_grid_thing:Bar 97
+    400250: big_grid_thing:Bar 98
+    400252: big_grid_thing:Bar 99
+    400254: big_grid_thing:Bar1
+    400256: big_grid_thing:Bar1 1
+    400258: big_grid_thing:Bar1 10
+    400260: big_grid_thing:Bar1 100
+    400262: big_grid_thing:Bar1 101
+    400264: big_grid_thing:Bar1 102
+    400266: big_grid_thing:Bar1 103
+    400268: big_grid_thing:Bar1 104
+    400270: big_grid_thing:Bar1 105
+    400272: big_grid_thing:Bar1 106
+    400274: big_grid_thing:Bar1 107
+    400276: big_grid_thing:Bar1 108
+    400278: big_grid_thing:Bar1 109
+    400280: big_grid_thing:Bar1 11
+    400282: big_grid_thing:Bar1 110
+    400284: big_grid_thing:Bar1 111
+    400286: big_grid_thing:Bar1 112
+    400288: big_grid_thing:Bar1 113
+    400290: big_grid_thing:Bar1 114
+    400292: big_grid_thing:Bar1 115
+    400294: big_grid_thing:Bar1 116
+    400296: big_grid_thing:Bar1 117
+    400298: big_grid_thing:Bar1 118
+    400300: big_grid_thing:Bar1 119
+    400302: big_grid_thing:Bar1 12
+    400304: big_grid_thing:Bar1 120
+    400306: big_grid_thing:Bar1 121
+    400308: big_grid_thing:Bar1 122
+    400310: big_grid_thing:Bar1 123
+    400312: big_grid_thing:Bar1 124
+    400314: big_grid_thing:Bar1 125
+    400316: big_grid_thing:Bar1 13
+    400318: big_grid_thing:Bar1 14
+    400320: big_grid_thing:Bar1 15
+    400322: big_grid_thing:Bar1 16
+    400324: big_grid_thing:Bar1 17
+    400326: big_grid_thing:Bar1 18
+    400328: big_grid_thing:Bar1 19
+    400330: big_grid_thing:Bar1 2
+    400332: big_grid_thing:Bar1 20
+    400334: big_grid_thing:Bar1 21
+    400336: big_grid_thing:Bar1 22
+    400338: big_grid_thing:Bar1 23
+    400340: big_grid_thing:Bar1 24
+    400342: big_grid_thing:Bar1 25
+    400344: big_grid_thing:Bar1 26
+    400346: big_grid_thing:Bar1 27
+    400348: big_grid_thing:Bar1 28
+    400350: big_grid_thing:Bar1 29
+    400352: big_grid_thing:Bar1 3
+    400354: big_grid_thing:Bar1 30
+    400356: big_grid_thing:Bar1 31
+    400358: big_grid_thing:Bar1 32
+    400360: big_grid_thing:Bar1 33
+    400362: big_grid_thing:Bar1 34
+    400364: big_grid_thing:Bar1 35
+    400366: big_grid_thing:Bar1 36
+    400368: big_grid_thing:Bar1 37
+    400370: big_grid_thing:Bar1 38
+    400372: big_grid_thing:Bar1 39
+    400374: big_grid_thing:Bar1 4
+    400376: big_grid_thing:Bar1 40
+    400378: big_grid_thing:Bar1 41
+    400380: big_grid_thing:Bar1 42
+    400382: big_grid_thing:Bar1 43
+    400384: big_grid_thing:Bar1 44
+    400386: big_grid_thing:Bar1 45
+    400388: big_grid_thing:Bar1 46
+    400390: big_grid_thing:Bar1 47
+    400392: big_grid_thing:Bar1 48
+    400394: big_grid_thing:Bar1 49
+    400396: big_grid_thing:Bar1 5
+    400398: big_grid_thing:Bar1 50
+    400400: big_grid_thing:Bar1 51
+    400402: big_grid_thing:Bar1 52
+    400404: big_grid_thing:Bar1 53
+    400406: big_grid_thing:Bar1 54
+    400408: big_grid_thing:Bar1 55
+    400410: big_grid_thing:Bar1 56
+    400412: big_grid_thing:Bar1 57
+    400414: big_grid_thing:Bar1 58
+    400416: big_grid_thing:Bar1 59
+    400418: big_grid_thing:Bar1 6
+    400420: big_grid_thing:Bar1 60
+    400422: big_grid_thing:Bar1 61
+    400424: big_grid_thing:Bar1 62
+    400426: big_grid_thing:Bar1 63
+    400428: big_grid_thing:Bar1 64
+    400430: big_grid_thing:Bar1 65
+    400432: big_grid_thing:Bar1 66
+    400434: big_grid_thing:Bar1 67
+    400436: big_grid_thing:Bar1 68
+    400438: big_grid_thing:Bar1 69
+    400440: big_grid_thing:Bar1 7
+    400442: big_grid_thing:Bar1 70
+    400444: big_grid_thing:Bar1 71
+    400446: big_grid_thing:Bar1 72
+    400448: big_grid_thing:Bar1 73
+    400450: big_grid_thing:Bar1 74
+    400452: big_grid_thing:Bar1 75
+    400454: big_grid_thing:Bar1 76
+    400456: big_grid_thing:Bar1 77
+    400458: big_grid_thing:Bar1 78
+    400460: big_grid_thing:Bar1 79
+    400462: big_grid_thing:Bar1 8
+    400464: big_grid_thing:Bar1 80
+    400466: big_grid_thing:Bar1 81
+    400468: big_grid_thing:Bar1 82
+    400470: big_grid_thing:Bar1 83
+    400472: big_grid_thing:Bar1 84
+    400474: big_grid_thing:Bar1 85
+    400476: big_grid_thing:Bar1 86
+    400478: big_grid_thing:Bar1 87
+    400480: big_grid_thing:Bar1 88
+    400482: big_grid_thing:Bar1 89
+    400484: big_grid_thing:Bar1 9
+    400486: big_grid_thing:Bar1 90
+    400488: big_grid_thing:Bar1 91
+    400490: big_grid_thing:Bar1 92
+    400492: big_grid_thing:Bar1 93
+    400494: big_grid_thing:Bar1 94
+    400496: big_grid_thing:Bar1 95
+    400498: big_grid_thing:Bar1 96
+    400500: big_grid_thing:Bar1 97
+    400502: big_grid_thing:Bar1 98
+    400504: big_grid_thing:Bar1 99
+    400506: big_grid_thing:bars
+    400508: big_grid_thing:bars11
+    400510: big_grid_thing:bars11 1
+    400512: big_grid_thing:bars11 2
+    400514: big_grid_thing:bars12
+    400516: big_grid_thing:bars12 1
+    400518: big_grid_thing:bars12 2
+    400520: big_grid_thing:bars13
+    400522: big_grid_thing:bars13 1
+    400524: big_grid_thing:bars13 2
+    400526: big_grid_thing:bars14
+    400528: big_grid_thing:bars14 1
+    400530: big_grid_thing:bars14 2
+    400532: big_grid_thing:bars15
+    400534: big_grid_thing:bars15 1
+    400536: big_grid_thing:bars15 2
+    400538: big_grid_thing:bars16
+    400540: big_grid_thing:bars16 1
+    400542: big_grid_thing:bars16 2
+    400544: big_grid_thing:bars17
+    400546: big_grid_thing:bars17 1
+    400548: big_grid_thing:bars17 2
+    400550: big_grid_thing:bars18
+    400552: big_grid_thing:bars18 1
+    400554: big_grid_thing:bars18 2
+    400556: big_grid_thing:bars19
+    400558: big_grid_thing:bars19 1
+    400560: big_grid_thing:bars19 2
+    400562: big_grid_thing:bars20
+    400564: big_grid_thing:bars20 1
+    400566: big_grid_thing:bars20 2
+    400568: big_grid_thing:bars21
+    400570: big_grid_thing:bars21 1
+    400572: big_grid_thing:bars21 2
+    400574: big_grid_thing:bars22
+    400576: big_grid_thing:bars22 1
+    400578: big_grid_thing:bars22 2
+    400580: big_grid_thing:bars23
+    400582: big_grid_thing:bars23 1
+    400584: big_grid_thing:bars23 2
+    400586: big_grid_thing:bars24
+    400588: big_grid_thing:bars24 1
+    400590: big_grid_thing:bars24 2
+    400592: big_grid_thing:bars25
+    400594: big_grid_thing:bars25 1
+    400596: big_grid_thing:bars25 2
+    400598: big_grid_thing:bars26
+    400600: big_grid_thing:bars26 1
+    400602: big_grid_thing:bars26 2
+    400604: big_grid_thing:bars27
+    400606: big_grid_thing:bars27 1
+    400608: big_grid_thing:bars27 2
+    400610: big_grid_thing:bars28
+    400612: big_grid_thing:bars28 1
+    400614: big_grid_thing:bars28 2
+    400616: big_grid_thing:bars29
+    400618: big_grid_thing:bars29 1
+    400620: big_grid_thing:bars29 2
+    400622: big_grid_thing:bars30
+    400624: big_grid_thing:bars30 1
+    400626: big_grid_thing:bars30 2
+    400628: big_grid_thing:bars31
+    400630: big_grid_thing:bars31 1
+    400632: big_grid_thing:bars31 2
+    400634: big_grid_thing:bars32
+    400636: big_grid_thing:bars32 1
+    400638: big_grid_thing:bars32 2
+    400640: big_grid_thing:bars33
+    400642: big_grid_thing:bars33 1
+    400644: big_grid_thing:bars33 2
+    400646: big_grid_thing:bars34
+    400648: big_grid_thing:bars34 1
+    400650: big_grid_thing:bars34 2
+    400652: big_grid_thing:bars35
+    400654: big_grid_thing:bars35 1
+    400656: big_grid_thing:bars35 2
+    400658: big_grid_thing:bars36
+    400660: big_grid_thing:bars36 1
+    400662: big_grid_thing:bars36 2
+    400664: big_grid_thing:bars37
+    400666: big_grid_thing:bars37 1
+    400668: big_grid_thing:bars37 2
+    400670: big_grid_thing:bars38
+    400672: big_grid_thing:bars38 1
+    400674: big_grid_thing:bars38 2
+    400676: big_grid_thing:bars39
+    400678: big_grid_thing:bars39 1
+    400680: big_grid_thing:bars39 2
+    400682: big_grid_thing:bars40
+    400684: big_grid_thing:bars40 1
+    400686: big_grid_thing:bars40 2
+    400688: big_grid_thing:bars41
+    400690: big_grid_thing:bars41 1
+    400692: big_grid_thing:bars41 2
+    400694: big_grid_thing:bars42
+    400696: big_grid_thing:bars42 1
+    400698: big_grid_thing:bars42 2
+    400700: big_grid_thing:bars43
+    400702: big_grid_thing:bars43 1
+    400704: big_grid_thing:bars43 2
+    400706: big_grid_thing:bars44
+    400708: big_grid_thing:bars44 1
+    400710: big_grid_thing:bars44 2
+    400712: big_grid_thing:bars45
+    400714: big_grid_thing:bars45 1
+    400716: big_grid_thing:bars45 2
+    400718: big_grid_thing:bars46
+    400720: big_grid_thing:bars46 1
+    400722: big_grid_thing:bars46 2
+    400724: big_grid_thing:bars47
+    400726: big_grid_thing:bars47 1
+    400728: big_grid_thing:bars47 2
+    400730: big_grid_thing:bars48
+    400732: big_grid_thing:bars48 1
+    400734: big_grid_thing:bars48 2
+    400736: big_grid_thing:bars49
+    400738: big_grid_thing:bars49 1
+    400740: big_grid_thing:bars49 2
+    400742: big_grid_thing:bars50
+    400744: big_grid_thing:bars50 1
+    400746: big_grid_thing:bars50 2
+    400748: big_grid_thing:bars51
+    400750: big_grid_thing:bars51 1
+    400752: big_grid_thing:bars51 2
+    400754: big_grid_thing:bars52
+    400756: big_grid_thing:bars53
+    400758: big_grid_thingRNannotation
+    400760: big_grid_thingRNgroup
+    400762: big_grid_thingRNlocator
+    400764: cameraOnTripod:camera
+    400766: cameraOnTripod:polySurface1
+    400768: cameraOnTripod:polySurface2
+    400770: cameraOnTripod:polySurface3
+    400772: cameraOnTripod:polySurface4
+    400774: cameraOnTripod:polySurface5
+    400776: cameraOnTripod:polySurface6
+    400778: cameraOnTripod:polySurface7
+    400780: cameraOnTripod:tripod
+    400782: cameraOnTripodRNannotation
+    400784: cameraOnTripodRNgroup
+    400786: cameraOnTripodRNlocator
+    400788: group1
+    400790: ladder:back
+    400792: ladder:front
+    400794: ladder:ladder
+    400796: ladder:pCube10
+    400798: ladder:pCube10 1
+    400800: ladder:pCube12
+    400802: ladder:pCube12 1
+    400804: ladder:pCube13
+    400806: ladder:pCube13 1
+    400808: ladder:pCube14
+    400810: ladder:pCube14 1
+    400812: ladder:pCube15
+    400814: ladder:pCube15 1
+    400816: ladder:pCube16
+    400818: ladder:pCube16 1
+    400820: ladder:pCube17
+    400822: ladder:pCube17 1
+    400824: ladder:pCube19
+    400826: ladder:pCube2
+    400828: ladder:pCube20
+    400830: ladderRNannotation
+    400832: ladderRNgroup
+    400834: ladderRNlocator
+    400836: light_facing_out
+    400838: light_stand
+    400840: lightReflectorThing:light_facing_out
+    400842: lightReflectorThing:light_stand
+    400844: lightReflectorThing:polySurface4
+    400846: lightReflectorThing:polySurface6
+    400848: lightReflectorThing:polySurface7
+    400850: lightReflectorThing:polySurface8
+    400852: lightReflectorThing:white_backing
+    400854: //RootNode
+    400856: pCube1
+    400858: pCube2
+    400860: pointLight1
+    400862: polySurface4
+    400864: polySurface6
+    400866: polySurface7
+    400868: polySurface8
+    400870: pPlane1
+    400872: pPlane2
+    400874: pPlane3
+    400876: pPlane4
+    400878: pPlane5
+    400880: pPlane6
+    400882: pPlane7
+    400884: spotLight1
+    400886: spotLight2
+    400888: tree2:polySurface1
+    400890: tree2:polySurface1 1
+    400892: tree2RNannotation
+    400894: tree2RNannotation 1
+    400896: tree2RNgroup
+    400898: tree2RNgroup 1
+    400900: tree2RNlocator
+    400902: tree2RNlocator1
+    400904: tree3:polySurface1
+    400906: tree3:polySurface1 1
+    400908: tree3:pPlane3
+    400910: tree3:pPlane3 1
+    400912: tree3:transform1
+    400914: tree3:transform1 1
+    400916: tree3RNannotation
+    400918: tree3RNannotation 1
+    400920: tree3RNgroup
+    400922: tree3RNgroup 1
+    400924: tree3RNlocator
+    400926: tree3RNlocator1
+    400928: white_backing
+    2300000: Backdrop
+    2300002: big_grid_thing:Bar
+    2300004: big_grid_thing:Bar 1
+    2300006: big_grid_thing:Bar 10
+    2300008: big_grid_thing:Bar 100
+    2300010: big_grid_thing:Bar 101
+    2300012: big_grid_thing:Bar 102
+    2300014: big_grid_thing:Bar 103
+    2300016: big_grid_thing:Bar 104
+    2300018: big_grid_thing:Bar 105
+    2300020: big_grid_thing:Bar 106
+    2300022: big_grid_thing:Bar 107
+    2300024: big_grid_thing:Bar 108
+    2300026: big_grid_thing:Bar 109
+    2300028: big_grid_thing:Bar 11
+    2300030: big_grid_thing:Bar 110
+    2300032: big_grid_thing:Bar 111
+    2300034: big_grid_thing:Bar 112
+    2300036: big_grid_thing:Bar 113
+    2300038: big_grid_thing:Bar 114
+    2300040: big_grid_thing:Bar 115
+    2300042: big_grid_thing:Bar 116
+    2300044: big_grid_thing:Bar 117
+    2300046: big_grid_thing:Bar 118
+    2300048: big_grid_thing:Bar 119
+    2300050: big_grid_thing:Bar 12
+    2300052: big_grid_thing:Bar 120
+    2300054: big_grid_thing:Bar 121
+    2300056: big_grid_thing:Bar 122
+    2300058: big_grid_thing:Bar 123
+    2300060: big_grid_thing:Bar 124
+    2300062: big_grid_thing:Bar 125
+    2300064: big_grid_thing:Bar 13
+    2300066: big_grid_thing:Bar 14
+    2300068: big_grid_thing:Bar 15
+    2300070: big_grid_thing:Bar 16
+    2300072: big_grid_thing:Bar 17
+    2300074: big_grid_thing:Bar 18
+    2300076: big_grid_thing:Bar 19
+    2300078: big_grid_thing:Bar 2
+    2300080: big_grid_thing:Bar 20
+    2300082: big_grid_thing:Bar 21
+    2300084: big_grid_thing:Bar 22
+    2300086: big_grid_thing:Bar 23
+    2300088: big_grid_thing:Bar 24
+    2300090: big_grid_thing:Bar 25
+    2300092: big_grid_thing:Bar 26
+    2300094: big_grid_thing:Bar 27
+    2300096: big_grid_thing:Bar 28
+    2300098: big_grid_thing:Bar 29
+    2300100: big_grid_thing:Bar 3
+    2300102: big_grid_thing:Bar 30
+    2300104: big_grid_thing:Bar 31
+    2300106: big_grid_thing:Bar 32
+    2300108: big_grid_thing:Bar 33
+    2300110: big_grid_thing:Bar 34
+    2300112: big_grid_thing:Bar 35
+    2300114: big_grid_thing:Bar 36
+    2300116: big_grid_thing:Bar 37
+    2300118: big_grid_thing:Bar 38
+    2300120: big_grid_thing:Bar 39
+    2300122: big_grid_thing:Bar 4
+    2300124: big_grid_thing:Bar 40
+    2300126: big_grid_thing:Bar 41
+    2300128: big_grid_thing:Bar 42
+    2300130: big_grid_thing:Bar 43
+    2300132: big_grid_thing:Bar 44
+    2300134: big_grid_thing:Bar 45
+    2300136: big_grid_thing:Bar 46
+    2300138: big_grid_thing:Bar 47
+    2300140: big_grid_thing:Bar 48
+    2300142: big_grid_thing:Bar 49
+    2300144: big_grid_thing:Bar 5
+    2300146: big_grid_thing:Bar 50
+    2300148: big_grid_thing:Bar 51
+    2300150: big_grid_thing:Bar 52
+    2300152: big_grid_thing:Bar 53
+    2300154: big_grid_thing:Bar 54
+    2300156: big_grid_thing:Bar 55
+    2300158: big_grid_thing:Bar 56
+    2300160: big_grid_thing:Bar 57
+    2300162: big_grid_thing:Bar 58
+    2300164: big_grid_thing:Bar 59
+    2300166: big_grid_thing:Bar 6
+    2300168: big_grid_thing:Bar 60
+    2300170: big_grid_thing:Bar 61
+    2300172: big_grid_thing:Bar 62
+    2300174: big_grid_thing:Bar 63
+    2300176: big_grid_thing:Bar 64
+    2300178: big_grid_thing:Bar 65
+    2300180: big_grid_thing:Bar 66
+    2300182: big_grid_thing:Bar 67
+    2300184: big_grid_thing:Bar 68
+    2300186: big_grid_thing:Bar 69
+    2300188: big_grid_thing:Bar 7
+    2300190: big_grid_thing:Bar 70
+    2300192: big_grid_thing:Bar 71
+    2300194: big_grid_thing:Bar 72
+    2300196: big_grid_thing:Bar 73
+    2300198: big_grid_thing:Bar 74
+    2300200: big_grid_thing:Bar 75
+    2300202: big_grid_thing:Bar 76
+    2300204: big_grid_thing:Bar 77
+    2300206: big_grid_thing:Bar 78
+    2300208: big_grid_thing:Bar 79
+    2300210: big_grid_thing:Bar 8
+    2300212: big_grid_thing:Bar 80
+    2300214: big_grid_thing:Bar 81
+    2300216: big_grid_thing:Bar 82
+    2300218: big_grid_thing:Bar 83
+    2300220: big_grid_thing:Bar 84
+    2300222: big_grid_thing:Bar 85
+    2300224: big_grid_thing:Bar 86
+    2300226: big_grid_thing:Bar 87
+    2300228: big_grid_thing:Bar 88
+    2300230: big_grid_thing:Bar 89
+    2300232: big_grid_thing:Bar 9
+    2300234: big_grid_thing:Bar 90
+    2300236: big_grid_thing:Bar 91
+    2300238: big_grid_thing:Bar 92
+    2300240: big_grid_thing:Bar 93
+    2300242: big_grid_thing:Bar 94
+    2300244: big_grid_thing:Bar 95
+    2300246: big_grid_thing:Bar 96
+    2300248: big_grid_thing:Bar 97
+    2300250: big_grid_thing:Bar 98
+    2300252: big_grid_thing:Bar 99
+    2300254: big_grid_thing:Bar1
+    2300256: big_grid_thing:Bar1 1
+    2300258: big_grid_thing:Bar1 10
+    2300260: big_grid_thing:Bar1 100
+    2300262: big_grid_thing:Bar1 101
+    2300264: big_grid_thing:Bar1 102
+    2300266: big_grid_thing:Bar1 103
+    2300268: big_grid_thing:Bar1 104
+    2300270: big_grid_thing:Bar1 105
+    2300272: big_grid_thing:Bar1 106
+    2300274: big_grid_thing:Bar1 107
+    2300276: big_grid_thing:Bar1 108
+    2300278: big_grid_thing:Bar1 109
+    2300280: big_grid_thing:Bar1 11
+    2300282: big_grid_thing:Bar1 110
+    2300284: big_grid_thing:Bar1 111
+    2300286: big_grid_thing:Bar1 112
+    2300288: big_grid_thing:Bar1 113
+    2300290: big_grid_thing:Bar1 114
+    2300292: big_grid_thing:Bar1 115
+    2300294: big_grid_thing:Bar1 116
+    2300296: big_grid_thing:Bar1 117
+    2300298: big_grid_thing:Bar1 118
+    2300300: big_grid_thing:Bar1 119
+    2300302: big_grid_thing:Bar1 12
+    2300304: big_grid_thing:Bar1 120
+    2300306: big_grid_thing:Bar1 121
+    2300308: big_grid_thing:Bar1 122
+    2300310: big_grid_thing:Bar1 123
+    2300312: big_grid_thing:Bar1 124
+    2300314: big_grid_thing:Bar1 125
+    2300316: big_grid_thing:Bar1 13
+    2300318: big_grid_thing:Bar1 14
+    2300320: big_grid_thing:Bar1 15
+    2300322: big_grid_thing:Bar1 16
+    2300324: big_grid_thing:Bar1 17
+    2300326: big_grid_thing:Bar1 18
+    2300328: big_grid_thing:Bar1 19
+    2300330: big_grid_thing:Bar1 2
+    2300332: big_grid_thing:Bar1 20
+    2300334: big_grid_thing:Bar1 21
+    2300336: big_grid_thing:Bar1 22
+    2300338: big_grid_thing:Bar1 23
+    2300340: big_grid_thing:Bar1 24
+    2300342: big_grid_thing:Bar1 25
+    2300344: big_grid_thing:Bar1 26
+    2300346: big_grid_thing:Bar1 27
+    2300348: big_grid_thing:Bar1 28
+    2300350: big_grid_thing:Bar1 29
+    2300352: big_grid_thing:Bar1 3
+    2300354: big_grid_thing:Bar1 30
+    2300356: big_grid_thing:Bar1 31
+    2300358: big_grid_thing:Bar1 32
+    2300360: big_grid_thing:Bar1 33
+    2300362: big_grid_thing:Bar1 34
+    2300364: big_grid_thing:Bar1 35
+    2300366: big_grid_thing:Bar1 36
+    2300368: big_grid_thing:Bar1 37
+    2300370: big_grid_thing:Bar1 38
+    2300372: big_grid_thing:Bar1 39
+    2300374: big_grid_thing:Bar1 4
+    2300376: big_grid_thing:Bar1 40
+    2300378: big_grid_thing:Bar1 41
+    2300380: big_grid_thing:Bar1 42
+    2300382: big_grid_thing:Bar1 43
+    2300384: big_grid_thing:Bar1 44
+    2300386: big_grid_thing:Bar1 45
+    2300388: big_grid_thing:Bar1 46
+    2300390: big_grid_thing:Bar1 47
+    2300392: big_grid_thing:Bar1 48
+    2300394: big_grid_thing:Bar1 49
+    2300396: big_grid_thing:Bar1 5
+    2300398: big_grid_thing:Bar1 50
+    2300400: big_grid_thing:Bar1 51
+    2300402: big_grid_thing:Bar1 52
+    2300404: big_grid_thing:Bar1 53
+    2300406: big_grid_thing:Bar1 54
+    2300408: big_grid_thing:Bar1 55
+    2300410: big_grid_thing:Bar1 56
+    2300412: big_grid_thing:Bar1 57
+    2300414: big_grid_thing:Bar1 58
+    2300416: big_grid_thing:Bar1 59
+    2300418: big_grid_thing:Bar1 6
+    2300420: big_grid_thing:Bar1 60
+    2300422: big_grid_thing:Bar1 61
+    2300424: big_grid_thing:Bar1 62
+    2300426: big_grid_thing:Bar1 63
+    2300428: big_grid_thing:Bar1 64
+    2300430: big_grid_thing:Bar1 65
+    2300432: big_grid_thing:Bar1 66
+    2300434: big_grid_thing:Bar1 67
+    2300436: big_grid_thing:Bar1 68
+    2300438: big_grid_thing:Bar1 69
+    2300440: big_grid_thing:Bar1 7
+    2300442: big_grid_thing:Bar1 70
+    2300444: big_grid_thing:Bar1 71
+    2300446: big_grid_thing:Bar1 72
+    2300448: big_grid_thing:Bar1 73
+    2300450: big_grid_thing:Bar1 74
+    2300452: big_grid_thing:Bar1 75
+    2300454: big_grid_thing:Bar1 76
+    2300456: big_grid_thing:Bar1 77
+    2300458: big_grid_thing:Bar1 78
+    2300460: big_grid_thing:Bar1 79
+    2300462: big_grid_thing:Bar1 8
+    2300464: big_grid_thing:Bar1 80
+    2300466: big_grid_thing:Bar1 81
+    2300468: big_grid_thing:Bar1 82
+    2300470: big_grid_thing:Bar1 83
+    2300472: big_grid_thing:Bar1 84
+    2300474: big_grid_thing:Bar1 85
+    2300476: big_grid_thing:Bar1 86
+    2300478: big_grid_thing:Bar1 87
+    2300480: big_grid_thing:Bar1 88
+    2300482: big_grid_thing:Bar1 89
+    2300484: big_grid_thing:Bar1 9
+    2300486: big_grid_thing:Bar1 90
+    2300488: big_grid_thing:Bar1 91
+    2300490: big_grid_thing:Bar1 92
+    2300492: big_grid_thing:Bar1 93
+    2300494: big_grid_thing:Bar1 94
+    2300496: big_grid_thing:Bar1 95
+    2300498: big_grid_thing:Bar1 96
+    2300500: big_grid_thing:Bar1 97
+    2300502: big_grid_thing:Bar1 98
+    2300504: big_grid_thing:Bar1 99
+    2300506: cameraOnTripod:polySurface1
+    2300508: cameraOnTripod:polySurface2
+    2300510: cameraOnTripod:polySurface3
+    2300512: cameraOnTripod:polySurface4
+    2300514: cameraOnTripod:polySurface5
+    2300516: cameraOnTripod:polySurface6
+    2300518: cameraOnTripod:polySurface7
+    2300520: cameraOnTripod:tripod
+    2300522: ladder:back
+    2300524: ladder:ladder
+    2300526: ladder:pCube10
+    2300528: ladder:pCube10 1
+    2300530: ladder:pCube12
+    2300532: ladder:pCube12 1
+    2300534: ladder:pCube13
+    2300536: ladder:pCube13 1
+    2300538: ladder:pCube14
+    2300540: ladder:pCube14 1
+    2300542: ladder:pCube15
+    2300544: ladder:pCube15 1
+    2300546: ladder:pCube16
+    2300548: ladder:pCube16 1
+    2300550: ladder:pCube17
+    2300552: ladder:pCube17 1
+    2300554: ladder:pCube19
+    2300556: ladder:pCube2
+    2300558: ladder:pCube20
+    2300560: light_stand
+    2300562: lightReflectorThing:light_stand
+    2300564: lightReflectorThing:polySurface4
+    2300566: lightReflectorThing:polySurface6
+    2300568: lightReflectorThing:polySurface7
+    2300570: lightReflectorThing:polySurface8
+    2300572: lightReflectorThing:white_backing
+    2300574: pCube1
+    2300576: pCube2
+    2300578: polySurface4
+    2300580: polySurface6
+    2300582: polySurface7
+    2300584: polySurface8
+    2300586: pPlane1
+    2300588: pPlane2
+    2300590: pPlane3
+    2300592: pPlane4
+    2300594: pPlane5
+    2300596: pPlane6
+    2300598: pPlane7
+    2300600: tree2:polySurface1
+    2300602: tree2:polySurface1 1
+    2300604: tree3:pPlane3
+    2300606: tree3:pPlane3 1
+    2300608: white_backing
+    3300000: Backdrop
+    3300002: big_grid_thing:Bar
+    3300004: big_grid_thing:Bar 1
+    3300006: big_grid_thing:Bar 10
+    3300008: big_grid_thing:Bar 100
+    3300010: big_grid_thing:Bar 101
+    3300012: big_grid_thing:Bar 102
+    3300014: big_grid_thing:Bar 103
+    3300016: big_grid_thing:Bar 104
+    3300018: big_grid_thing:Bar 105
+    3300020: big_grid_thing:Bar 106
+    3300022: big_grid_thing:Bar 107
+    3300024: big_grid_thing:Bar 108
+    3300026: big_grid_thing:Bar 109
+    3300028: big_grid_thing:Bar 11
+    3300030: big_grid_thing:Bar 110
+    3300032: big_grid_thing:Bar 111
+    3300034: big_grid_thing:Bar 112
+    3300036: big_grid_thing:Bar 113
+    3300038: big_grid_thing:Bar 114
+    3300040: big_grid_thing:Bar 115
+    3300042: big_grid_thing:Bar 116
+    3300044: big_grid_thing:Bar 117
+    3300046: big_grid_thing:Bar 118
+    3300048: big_grid_thing:Bar 119
+    3300050: big_grid_thing:Bar 12
+    3300052: big_grid_thing:Bar 120
+    3300054: big_grid_thing:Bar 121
+    3300056: big_grid_thing:Bar 122
+    3300058: big_grid_thing:Bar 123
+    3300060: big_grid_thing:Bar 124
+    3300062: big_grid_thing:Bar 125
+    3300064: big_grid_thing:Bar 13
+    3300066: big_grid_thing:Bar 14
+    3300068: big_grid_thing:Bar 15
+    3300070: big_grid_thing:Bar 16
+    3300072: big_grid_thing:Bar 17
+    3300074: big_grid_thing:Bar 18
+    3300076: big_grid_thing:Bar 19
+    3300078: big_grid_thing:Bar 2
+    3300080: big_grid_thing:Bar 20
+    3300082: big_grid_thing:Bar 21
+    3300084: big_grid_thing:Bar 22
+    3300086: big_grid_thing:Bar 23
+    3300088: big_grid_thing:Bar 24
+    3300090: big_grid_thing:Bar 25
+    3300092: big_grid_thing:Bar 26
+    3300094: big_grid_thing:Bar 27
+    3300096: big_grid_thing:Bar 28
+    3300098: big_grid_thing:Bar 29
+    3300100: big_grid_thing:Bar 3
+    3300102: big_grid_thing:Bar 30
+    3300104: big_grid_thing:Bar 31
+    3300106: big_grid_thing:Bar 32
+    3300108: big_grid_thing:Bar 33
+    3300110: big_grid_thing:Bar 34
+    3300112: big_grid_thing:Bar 35
+    3300114: big_grid_thing:Bar 36
+    3300116: big_grid_thing:Bar 37
+    3300118: big_grid_thing:Bar 38
+    3300120: big_grid_thing:Bar 39
+    3300122: big_grid_thing:Bar 4
+    3300124: big_grid_thing:Bar 40
+    3300126: big_grid_thing:Bar 41
+    3300128: big_grid_thing:Bar 42
+    3300130: big_grid_thing:Bar 43
+    3300132: big_grid_thing:Bar 44
+    3300134: big_grid_thing:Bar 45
+    3300136: big_grid_thing:Bar 46
+    3300138: big_grid_thing:Bar 47
+    3300140: big_grid_thing:Bar 48
+    3300142: big_grid_thing:Bar 49
+    3300144: big_grid_thing:Bar 5
+    3300146: big_grid_thing:Bar 50
+    3300148: big_grid_thing:Bar 51
+    3300150: big_grid_thing:Bar 52
+    3300152: big_grid_thing:Bar 53
+    3300154: big_grid_thing:Bar 54
+    3300156: big_grid_thing:Bar 55
+    3300158: big_grid_thing:Bar 56
+    3300160: big_grid_thing:Bar 57
+    3300162: big_grid_thing:Bar 58
+    3300164: big_grid_thing:Bar 59
+    3300166: big_grid_thing:Bar 6
+    3300168: big_grid_thing:Bar 60
+    3300170: big_grid_thing:Bar 61
+    3300172: big_grid_thing:Bar 62
+    3300174: big_grid_thing:Bar 63
+    3300176: big_grid_thing:Bar 64
+    3300178: big_grid_thing:Bar 65
+    3300180: big_grid_thing:Bar 66
+    3300182: big_grid_thing:Bar 67
+    3300184: big_grid_thing:Bar 68
+    3300186: big_grid_thing:Bar 69
+    3300188: big_grid_thing:Bar 7
+    3300190: big_grid_thing:Bar 70
+    3300192: big_grid_thing:Bar 71
+    3300194: big_grid_thing:Bar 72
+    3300196: big_grid_thing:Bar 73
+    3300198: big_grid_thing:Bar 74
+    3300200: big_grid_thing:Bar 75
+    3300202: big_grid_thing:Bar 76
+    3300204: big_grid_thing:Bar 77
+    3300206: big_grid_thing:Bar 78
+    3300208: big_grid_thing:Bar 79
+    3300210: big_grid_thing:Bar 8
+    3300212: big_grid_thing:Bar 80
+    3300214: big_grid_thing:Bar 81
+    3300216: big_grid_thing:Bar 82
+    3300218: big_grid_thing:Bar 83
+    3300220: big_grid_thing:Bar 84
+    3300222: big_grid_thing:Bar 85
+    3300224: big_grid_thing:Bar 86
+    3300226: big_grid_thing:Bar 87
+    3300228: big_grid_thing:Bar 88
+    3300230: big_grid_thing:Bar 89
+    3300232: big_grid_thing:Bar 9
+    3300234: big_grid_thing:Bar 90
+    3300236: big_grid_thing:Bar 91
+    3300238: big_grid_thing:Bar 92
+    3300240: big_grid_thing:Bar 93
+    3300242: big_grid_thing:Bar 94
+    3300244: big_grid_thing:Bar 95
+    3300246: big_grid_thing:Bar 96
+    3300248: big_grid_thing:Bar 97
+    3300250: big_grid_thing:Bar 98
+    3300252: big_grid_thing:Bar 99
+    3300254: big_grid_thing:Bar1
+    3300256: big_grid_thing:Bar1 1
+    3300258: big_grid_thing:Bar1 10
+    3300260: big_grid_thing:Bar1 100
+    3300262: big_grid_thing:Bar1 101
+    3300264: big_grid_thing:Bar1 102
+    3300266: big_grid_thing:Bar1 103
+    3300268: big_grid_thing:Bar1 104
+    3300270: big_grid_thing:Bar1 105
+    3300272: big_grid_thing:Bar1 106
+    3300274: big_grid_thing:Bar1 107
+    3300276: big_grid_thing:Bar1 108
+    3300278: big_grid_thing:Bar1 109
+    3300280: big_grid_thing:Bar1 11
+    3300282: big_grid_thing:Bar1 110
+    3300284: big_grid_thing:Bar1 111
+    3300286: big_grid_thing:Bar1 112
+    3300288: big_grid_thing:Bar1 113
+    3300290: big_grid_thing:Bar1 114
+    3300292: big_grid_thing:Bar1 115
+    3300294: big_grid_thing:Bar1 116
+    3300296: big_grid_thing:Bar1 117
+    3300298: big_grid_thing:Bar1 118
+    3300300: big_grid_thing:Bar1 119
+    3300302: big_grid_thing:Bar1 12
+    3300304: big_grid_thing:Bar1 120
+    3300306: big_grid_thing:Bar1 121
+    3300308: big_grid_thing:Bar1 122
+    3300310: big_grid_thing:Bar1 123
+    3300312: big_grid_thing:Bar1 124
+    3300314: big_grid_thing:Bar1 125
+    3300316: big_grid_thing:Bar1 13
+    3300318: big_grid_thing:Bar1 14
+    3300320: big_grid_thing:Bar1 15
+    3300322: big_grid_thing:Bar1 16
+    3300324: big_grid_thing:Bar1 17
+    3300326: big_grid_thing:Bar1 18
+    3300328: big_grid_thing:Bar1 19
+    3300330: big_grid_thing:Bar1 2
+    3300332: big_grid_thing:Bar1 20
+    3300334: big_grid_thing:Bar1 21
+    3300336: big_grid_thing:Bar1 22
+    3300338: big_grid_thing:Bar1 23
+    3300340: big_grid_thing:Bar1 24
+    3300342: big_grid_thing:Bar1 25
+    3300344: big_grid_thing:Bar1 26
+    3300346: big_grid_thing:Bar1 27
+    3300348: big_grid_thing:Bar1 28
+    3300350: big_grid_thing:Bar1 29
+    3300352: big_grid_thing:Bar1 3
+    3300354: big_grid_thing:Bar1 30
+    3300356: big_grid_thing:Bar1 31
+    3300358: big_grid_thing:Bar1 32
+    3300360: big_grid_thing:Bar1 33
+    3300362: big_grid_thing:Bar1 34
+    3300364: big_grid_thing:Bar1 35
+    3300366: big_grid_thing:Bar1 36
+    3300368: big_grid_thing:Bar1 37
+    3300370: big_grid_thing:Bar1 38
+    3300372: big_grid_thing:Bar1 39
+    3300374: big_grid_thing:Bar1 4
+    3300376: big_grid_thing:Bar1 40
+    3300378: big_grid_thing:Bar1 41
+    3300380: big_grid_thing:Bar1 42
+    3300382: big_grid_thing:Bar1 43
+    3300384: big_grid_thing:Bar1 44
+    3300386: big_grid_thing:Bar1 45
+    3300388: big_grid_thing:Bar1 46
+    3300390: big_grid_thing:Bar1 47
+    3300392: big_grid_thing:Bar1 48
+    3300394: big_grid_thing:Bar1 49
+    3300396: big_grid_thing:Bar1 5
+    3300398: big_grid_thing:Bar1 50
+    3300400: big_grid_thing:Bar1 51
+    3300402: big_grid_thing:Bar1 52
+    3300404: big_grid_thing:Bar1 53
+    3300406: big_grid_thing:Bar1 54
+    3300408: big_grid_thing:Bar1 55
+    3300410: big_grid_thing:Bar1 56
+    3300412: big_grid_thing:Bar1 57
+    3300414: big_grid_thing:Bar1 58
+    3300416: big_grid_thing:Bar1 59
+    3300418: big_grid_thing:Bar1 6
+    3300420: big_grid_thing:Bar1 60
+    3300422: big_grid_thing:Bar1 61
+    3300424: big_grid_thing:Bar1 62
+    3300426: big_grid_thing:Bar1 63
+    3300428: big_grid_thing:Bar1 64
+    3300430: big_grid_thing:Bar1 65
+    3300432: big_grid_thing:Bar1 66
+    3300434: big_grid_thing:Bar1 67
+    3300436: big_grid_thing:Bar1 68
+    3300438: big_grid_thing:Bar1 69
+    3300440: big_grid_thing:Bar1 7
+    3300442: big_grid_thing:Bar1 70
+    3300444: big_grid_thing:Bar1 71
+    3300446: big_grid_thing:Bar1 72
+    3300448: big_grid_thing:Bar1 73
+    3300450: big_grid_thing:Bar1 74
+    3300452: big_grid_thing:Bar1 75
+    3300454: big_grid_thing:Bar1 76
+    3300456: big_grid_thing:Bar1 77
+    3300458: big_grid_thing:Bar1 78
+    3300460: big_grid_thing:Bar1 79
+    3300462: big_grid_thing:Bar1 8
+    3300464: big_grid_thing:Bar1 80
+    3300466: big_grid_thing:Bar1 81
+    3300468: big_grid_thing:Bar1 82
+    3300470: big_grid_thing:Bar1 83
+    3300472: big_grid_thing:Bar1 84
+    3300474: big_grid_thing:Bar1 85
+    3300476: big_grid_thing:Bar1 86
+    3300478: big_grid_thing:Bar1 87
+    3300480: big_grid_thing:Bar1 88
+    3300482: big_grid_thing:Bar1 89
+    3300484: big_grid_thing:Bar1 9
+    3300486: big_grid_thing:Bar1 90
+    3300488: big_grid_thing:Bar1 91
+    3300490: big_grid_thing:Bar1 92
+    3300492: big_grid_thing:Bar1 93
+    3300494: big_grid_thing:Bar1 94
+    3300496: big_grid_thing:Bar1 95
+    3300498: big_grid_thing:Bar1 96
+    3300500: big_grid_thing:Bar1 97
+    3300502: big_grid_thing:Bar1 98
+    3300504: big_grid_thing:Bar1 99
+    3300506: cameraOnTripod:polySurface1
+    3300508: cameraOnTripod:polySurface2
+    3300510: cameraOnTripod:polySurface3
+    3300512: cameraOnTripod:polySurface4
+    3300514: cameraOnTripod:polySurface5
+    3300516: cameraOnTripod:polySurface6
+    3300518: cameraOnTripod:polySurface7
+    3300520: cameraOnTripod:tripod
+    3300522: ladder:back
+    3300524: ladder:ladder
+    3300526: ladder:pCube10
+    3300528: ladder:pCube10 1
+    3300530: ladder:pCube12
+    3300532: ladder:pCube12 1
+    3300534: ladder:pCube13
+    3300536: ladder:pCube13 1
+    3300538: ladder:pCube14
+    3300540: ladder:pCube14 1
+    3300542: ladder:pCube15
+    3300544: ladder:pCube15 1
+    3300546: ladder:pCube16
+    3300548: ladder:pCube16 1
+    3300550: ladder:pCube17
+    3300552: ladder:pCube17 1
+    3300554: ladder:pCube19
+    3300556: ladder:pCube2
+    3300558: ladder:pCube20
+    3300560: light_stand
+    3300562: lightReflectorThing:light_stand
+    3300564: lightReflectorThing:polySurface4
+    3300566: lightReflectorThing:polySurface6
+    3300568: lightReflectorThing:polySurface7
+    3300570: lightReflectorThing:polySurface8
+    3300572: lightReflectorThing:white_backing
+    3300574: pCube1
+    3300576: pCube2
+    3300578: polySurface4
+    3300580: polySurface6
+    3300582: polySurface7
+    3300584: polySurface8
+    3300586: pPlane1
+    3300588: pPlane2
+    3300590: pPlane3
+    3300592: pPlane4
+    3300594: pPlane5
+    3300596: pPlane6
+    3300598: pPlane7
+    3300600: tree2:polySurface1
+    3300602: tree2:polySurface1 1
+    3300604: tree3:pPlane3
+    3300606: tree3:pPlane3 1
+    3300608: white_backing
+    4300000: tree2:polySurface1
+    4300002: tree3:pPlane3
+    4300004: pPlane1
+    4300006: Backdrop
+    4300008: pPlane2
+    4300010: pPlane3
+    4300012: pPlane4
+    4300014: tree2:polySurface1
+    4300016: tree3:pPlane3
+    4300018: pCube2
+    4300020: pPlane6
+    4300022: pCube1
+    4300024: pPlane7
+    4300026: pPlane5
+    4300028: cameraOnTripod:tripod
+    4300030: cameraOnTripod:polySurface1
+    4300032: cameraOnTripod:polySurface2
+    4300034: cameraOnTripod:polySurface3
+    4300036: cameraOnTripod:polySurface4
+    4300038: cameraOnTripod:polySurface5
+    4300040: cameraOnTripod:polySurface6
+    4300042: cameraOnTripod:polySurface7
+    4300044: light_stand
+    4300046: polySurface4
+    4300048: polySurface6
+    4300050: white_backing
+    4300052: polySurface7
+    4300054: polySurface8
+    4300056: ladder:ladder
+    4300058: ladder:pCube2
+    4300060: ladder:pCube12
+    4300062: ladder:pCube13
+    4300064: ladder:pCube14
+    4300066: ladder:pCube15
+    4300068: ladder:pCube16
+    4300070: ladder:pCube17
+    4300072: ladder:pCube10
+    4300074: ladder:back
+    4300076: ladder:pCube12
+    4300078: ladder:pCube13
+    4300080: ladder:pCube14
+    4300082: ladder:pCube15
+    4300084: ladder:pCube16
+    4300086: ladder:pCube17
+    4300088: ladder:pCube10
+    4300090: ladder:pCube19
+    4300092: ladder:pCube20
+    4300094: big_grid_thing:Bar1
+    4300096: big_grid_thing:Bar
+    4300098: big_grid_thing:Bar1
+    4300100: big_grid_thing:Bar
+    4300102: big_grid_thing:Bar1
+    4300104: big_grid_thing:Bar
+    4300106: big_grid_thing:Bar1
+    4300108: big_grid_thing:Bar
+    4300110: big_grid_thing:Bar1
+    4300112: big_grid_thing:Bar
+    4300114: big_grid_thing:Bar1
+    4300116: big_grid_thing:Bar
+    4300118: big_grid_thing:Bar1
+    4300120: big_grid_thing:Bar
+    4300122: big_grid_thing:Bar1
+    4300124: big_grid_thing:Bar
+    4300126: big_grid_thing:Bar1
+    4300128: big_grid_thing:Bar
+    4300130: big_grid_thing:Bar1
+    4300132: big_grid_thing:Bar
+    4300134: big_grid_thing:Bar1
+    4300136: big_grid_thing:Bar
+    4300138: big_grid_thing:Bar1
+    4300140: big_grid_thing:Bar
+    4300142: big_grid_thing:Bar1
+    4300144: big_grid_thing:Bar
+    4300146: big_grid_thing:Bar1
+    4300148: big_grid_thing:Bar
+    4300150: big_grid_thing:Bar1
+    4300152: big_grid_thing:Bar
+    4300154: big_grid_thing:Bar1
+    4300156: big_grid_thing:Bar
+    4300158: big_grid_thing:Bar1
+    4300160: big_grid_thing:Bar
+    4300162: big_grid_thing:Bar1
+    4300164: big_grid_thing:Bar
+    4300166: big_grid_thing:Bar1
+    4300168: big_grid_thing:Bar
+    4300170: big_grid_thing:Bar1
+    4300172: big_grid_thing:Bar
+    4300174: big_grid_thing:Bar1
+    4300176: big_grid_thing:Bar
+    4300178: big_grid_thing:Bar1
+    4300180: big_grid_thing:Bar
+    4300182: big_grid_thing:Bar1
+    4300184: big_grid_thing:Bar
+    4300186: big_grid_thing:Bar1
+    4300188: big_grid_thing:Bar
+    4300190: big_grid_thing:Bar1
+    4300192: big_grid_thing:Bar
+    4300194: big_grid_thing:Bar1
+    4300196: big_grid_thing:Bar
+    4300198: big_grid_thing:Bar1
+    4300200: big_grid_thing:Bar
+    4300202: big_grid_thing:Bar1
+    4300204: big_grid_thing:Bar
+    4300206: big_grid_thing:Bar1
+    4300208: big_grid_thing:Bar
+    4300210: big_grid_thing:Bar1
+    4300212: big_grid_thing:Bar
+    4300214: big_grid_thing:Bar1
+    4300216: big_grid_thing:Bar
+    4300218: big_grid_thing:Bar1
+    4300220: big_grid_thing:Bar
+    4300222: big_grid_thing:Bar1
+    4300224: big_grid_thing:Bar
+    4300226: big_grid_thing:Bar1
+    4300228: big_grid_thing:Bar
+    4300230: big_grid_thing:Bar1
+    4300232: big_grid_thing:Bar
+    4300234: big_grid_thing:Bar1
+    4300236: big_grid_thing:Bar
+    4300238: big_grid_thing:Bar1
+    4300240: big_grid_thing:Bar
+    4300242: big_grid_thing:Bar1
+    4300244: big_grid_thing:Bar
+    4300246: big_grid_thing:Bar1
+    4300248: big_grid_thing:Bar
+    4300250: big_grid_thing:Bar1
+    4300252: big_grid_thing:Bar
+    4300254: big_grid_thing:Bar1
+    4300256: big_grid_thing:Bar
+    4300258: big_grid_thing:Bar1
+    4300260: big_grid_thing:Bar
+    4300262: big_grid_thing:Bar1
+    4300264: big_grid_thing:Bar
+    4300266: big_grid_thing:Bar1
+    4300268: big_grid_thing:Bar
+    4300270: big_grid_thing:Bar1
+    4300272: big_grid_thing:Bar
+    4300274: big_grid_thing:Bar1
+    4300276: big_grid_thing:Bar
+    4300278: big_grid_thing:Bar1
+    4300280: big_grid_thing:Bar
+    4300282: big_grid_thing:Bar1
+    4300284: big_grid_thing:Bar
+    4300286: big_grid_thing:Bar1
+    4300288: big_grid_thing:Bar
+    4300290: big_grid_thing:Bar1
+    4300292: big_grid_thing:Bar
+    4300294: big_grid_thing:Bar1
+    4300296: big_grid_thing:Bar
+    4300298: big_grid_thing:Bar1
+    4300300: big_grid_thing:Bar
+    4300302: big_grid_thing:Bar1
+    4300304: big_grid_thing:Bar
+    4300306: big_grid_thing:Bar1
+    4300308: big_grid_thing:Bar
+    4300310: big_grid_thing:Bar1
+    4300312: big_grid_thing:Bar
+    4300314: big_grid_thing:Bar1
+    4300316: big_grid_thing:Bar
+    4300318: big_grid_thing:Bar1
+    4300320: big_grid_thing:Bar
+    4300322: big_grid_thing:Bar1
+    4300324: big_grid_thing:Bar
+    4300326: big_grid_thing:Bar1
+    4300328: big_grid_thing:Bar
+    4300330: big_grid_thing:Bar1
+    4300332: big_grid_thing:Bar
+    4300334: big_grid_thing:Bar1
+    4300336: big_grid_thing:Bar
+    4300338: big_grid_thing:Bar1
+    4300340: big_grid_thing:Bar
+    4300342: big_grid_thing:Bar1
+    4300344: big_grid_thing:Bar
+    4300346: big_grid_thing:Bar1
+    4300348: big_grid_thing:Bar
+    4300350: big_grid_thing:Bar1
+    4300352: big_grid_thing:Bar
+    4300354: big_grid_thing:Bar1
+    4300356: big_grid_thing:Bar
+    4300358: big_grid_thing:Bar1
+    4300360: big_grid_thing:Bar
+    4300362: big_grid_thing:Bar1
+    4300364: big_grid_thing:Bar
+    4300366: big_grid_thing:Bar1
+    4300368: big_grid_thing:Bar
+    4300370: big_grid_thing:Bar1
+    4300372: big_grid_thing:Bar
+    4300374: big_grid_thing:Bar1
+    4300376: big_grid_thing:Bar
+    4300378: big_grid_thing:Bar1
+    4300380: big_grid_thing:Bar
+    4300382: big_grid_thing:Bar1
+    4300384: big_grid_thing:Bar
+    4300386: big_grid_thing:Bar1
+    4300388: big_grid_thing:Bar
+    4300390: big_grid_thing:Bar1
+    4300392: big_grid_thing:Bar
+    4300394: big_grid_thing:Bar1
+    4300396: big_grid_thing:Bar
+    4300398: big_grid_thing:Bar1
+    4300400: big_grid_thing:Bar
+    4300402: big_grid_thing:Bar1
+    4300404: big_grid_thing:Bar
+    4300406: big_grid_thing:Bar1
+    4300408: big_grid_thing:Bar
+    4300410: big_grid_thing:Bar1
+    4300412: big_grid_thing:Bar
+    4300414: big_grid_thing:Bar1
+    4300416: big_grid_thing:Bar
+    4300418: big_grid_thing:Bar1
+    4300420: big_grid_thing:Bar
+    4300422: big_grid_thing:Bar1
+    4300424: big_grid_thing:Bar
+    4300426: big_grid_thing:Bar1
+    4300428: big_grid_thing:Bar
+    4300430: big_grid_thing:Bar1
+    4300432: big_grid_thing:Bar
+    4300434: big_grid_thing:Bar1
+    4300436: big_grid_thing:Bar
+    4300438: big_grid_thing:Bar1
+    4300440: big_grid_thing:Bar
+    4300442: big_grid_thing:Bar1
+    4300444: big_grid_thing:Bar
+    4300446: big_grid_thing:Bar1
+    4300448: big_grid_thing:Bar
+    4300450: big_grid_thing:Bar1
+    4300452: big_grid_thing:Bar
+    4300454: big_grid_thing:Bar1
+    4300456: big_grid_thing:Bar
+    4300458: big_grid_thing:Bar1
+    4300460: big_grid_thing:Bar
+    4300462: big_grid_thing:Bar1
+    4300464: big_grid_thing:Bar
+    4300466: big_grid_thing:Bar1
+    4300468: big_grid_thing:Bar
+    4300470: big_grid_thing:Bar1
+    4300472: big_grid_thing:Bar
+    4300474: big_grid_thing:Bar1
+    4300476: big_grid_thing:Bar
+    4300478: big_grid_thing:Bar1
+    4300480: big_grid_thing:Bar
+    4300482: big_grid_thing:Bar1
+    4300484: big_grid_thing:Bar
+    4300486: big_grid_thing:Bar1
+    4300488: big_grid_thing:Bar
+    4300490: big_grid_thing:Bar1
+    4300492: big_grid_thing:Bar
+    4300494: big_grid_thing:Bar1
+    4300496: big_grid_thing:Bar
+    4300498: big_grid_thing:Bar1
+    4300500: big_grid_thing:Bar
+    4300502: big_grid_thing:Bar1
+    4300504: big_grid_thing:Bar
+    4300506: big_grid_thing:Bar1
+    4300508: big_grid_thing:Bar
+    4300510: big_grid_thing:Bar1
+    4300512: big_grid_thing:Bar
+    4300514: big_grid_thing:Bar1
+    4300516: big_grid_thing:Bar
+    4300518: big_grid_thing:Bar1
+    4300520: big_grid_thing:Bar
+    4300522: big_grid_thing:Bar1
+    4300524: big_grid_thing:Bar
+    4300526: big_grid_thing:Bar1
+    4300528: big_grid_thing:Bar
+    4300530: big_grid_thing:Bar1
+    4300532: big_grid_thing:Bar
+    4300534: big_grid_thing:Bar1
+    4300536: big_grid_thing:Bar
+    4300538: big_grid_thing:Bar1
+    4300540: big_grid_thing:Bar
+    4300542: big_grid_thing:Bar1
+    4300544: big_grid_thing:Bar
+    4300546: big_grid_thing:Bar1
+    4300548: big_grid_thing:Bar
+    4300550: big_grid_thing:Bar1
+    4300552: big_grid_thing:Bar
+    4300554: big_grid_thing:Bar1
+    4300556: big_grid_thing:Bar
+    4300558: big_grid_thing:Bar1
+    4300560: big_grid_thing:Bar
+    4300562: big_grid_thing:Bar1
+    4300564: big_grid_thing:Bar
+    4300566: big_grid_thing:Bar1
+    4300568: big_grid_thing:Bar
+    4300570: big_grid_thing:Bar1
+    4300572: big_grid_thing:Bar
+    4300574: big_grid_thing:Bar1
+    4300576: big_grid_thing:Bar
+    4300578: big_grid_thing:Bar1
+    4300580: big_grid_thing:Bar
+    4300582: big_grid_thing:Bar1
+    4300584: big_grid_thing:Bar
+    4300586: big_grid_thing:Bar1
+    4300588: big_grid_thing:Bar
+    4300590: big_grid_thing:Bar1
+    4300592: big_grid_thing:Bar
+    4300594: big_grid_thing:Bar1
+    4300596: big_grid_thing:Bar
+    4300598: lightReflectorThing:light_stand
+    4300600: lightReflectorThing:polySurface4
+    4300602: lightReflectorThing:polySurface6
+    4300604: lightReflectorThing:white_backing
+    4300606: lightReflectorThing:polySurface7
+    4300608: lightReflectorThing:polySurface8
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
